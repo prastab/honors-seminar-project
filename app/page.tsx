@@ -44,7 +44,7 @@ export default function Home() {
 
       {/* --- Introduction Section --- */}
       <SectionContainer id="introduction">
-        <MotionH1>Feeling the Dialogue: Emotions and Morality in Scorsese & Tarantino Films</MotionH1>
+        <MotionH1>Sentiment Analysis of Characters in Scorsese and Tarantino Films</MotionH1>
         <MotionP>
           Martin Scorsese and Quentin Tarantino are masters of modern cinema, known for their
           stylish crime narratives, morally complex characters, and unforgettable dialogue.
@@ -62,7 +62,7 @@ export default function Home() {
         <MotionP>
           We started with a basic sentiment analysis tool (VADER<Cite id={REF_NUM.VADER} />) and then moved to a more
           advanced AI model (DistilRoBERTa<Cite id={REF_NUM.ROBERTA} />) to get a detailed breakdown of specific emotions
-          like anger, joy, fear, and sadness. This white paper presents our findings,
+          like anger, joy, fear, and sadness. This white paper presents my findings,
           offering a data-driven look at how emotion and morality intertwine in the dialogue
           of these cinematic giants.
         </MotionP>
@@ -70,7 +70,7 @@ export default function Home() {
 
       {/* --- Background Section --- */}
       <SectionContainer id="background">
-        <MotionH2>Background: Setting the Scene</MotionH2>
+        <MotionH2>Background</MotionH2>
         <MotionH3>Why Analyze Dialogue in These Films?</MotionH3>
         <MotionP>
           Scorsese and Tarantino have distinct but influential styles. Both often feature:
@@ -274,7 +274,7 @@ export default function Home() {
             <strong>Insights:</strong> These specific examples show the model often aligns well with explicit textual cues (Butch's "Shut up!" scoring high on 'anger', Jules' dialogue about dietary preferences scoring high on 'disgust'). The high 'anger' score for Jules's Ezekiel passage<Cite id={REF_NUM.PF} /> likely reflects the text's inherent intensity and violent context, even if the character's delivery is controlled.
          </MotionP>
          <MotionP>
-          However, comparing these peaks to the overall averages reveals a fascinating contrast. Our earlier analysis showed <strong>Goodfellas</strong><Cite id={REF_NUM.GF} /> characters, particularly Jimmy and Tommy, possessing higher <strong>average</strong> scores for negative emotions like anger, disgust, and fear. Yet, as seen above, the dialogue lines receiving the absolute <strong>highest</strong>, most extreme scores for these same emotions predominantly originate from <strong>Pulp Fiction</strong><Cite id={REF_NUM.PF} />.
+          However, comparing these peaks to the overall averages reveals a fascinating contrast. The earlier analysis showed <strong>Goodfellas</strong><Cite id={REF_NUM.GF} /> characters, particularly Jimmy and Tommy, possessing higher <strong>average</strong> scores for negative emotions like anger, disgust, and fear. Yet, as seen above, the dialogue lines receiving the absolute <strong>highest</strong>, most extreme scores for these same emotions predominantly originate from <strong>Pulp Fiction</strong><Cite id={REF_NUM.PF} />.
          </MotionP>
          <MotionP>
            This suggests potentially different stylistic approaches. The consistently higher negative averages in <strong>Goodfellas</strong> could reflect the pervasive tension, cynicism, and threat normalized within the mob environment Scorsese portrays – a constant, simmering baseline of negativity. Tarantino, on the other hand, might utilize moments of extreme emotional intensity in dialogue more <strong>selectively</strong> but with maximum textual force, creating sharp, impactful peaks (like Jules's righteous fury or sudden outburst) for dramatic or stylistic effect within a film that might otherwise have more varied emotional states. It highlights how average emotional tone differs from the intensity of emotional peaks in dialogue.
@@ -287,22 +287,26 @@ export default function Home() {
 
        {/* --- Conclusion Section --- */}
        <SectionContainer id="conclusion">
-        <MotionH2>Conclusion: Data Meets Dialogue</MotionH2>
+        <MotionH2>Conclusion</MotionH2>
         <MotionP>
           This analysis demonstrates that computational methods can offer valuable, quantifiable
-          insights... By moving from basic sentiment analysis (VADER<Cite id={REF_NUM.VADER} />) to fine-grained emotion classification (using a RoBERTa-based model<Cite id={REF_NUM.ROBERTA} />), we uncovered
-          nuanced patterns in how characters in <strong>Goodfellas</strong><Cite id={REF_NUM.GF} /> and <strong>Pulp Fiction</strong><Cite id={REF_NUM.PF} /> express emotion...
+          insights. By moving from basic sentiment analysis (VADER<Cite id={REF_NUM.VADER} />) to fine-grained emotion classification (using a RoBERTa-based model<Cite id={REF_NUM.ROBERTA} />), we uncovered
+          nuanced patterns in how characters in <strong>Goodfellas</strong><Cite id={REF_NUM.GF} /> and <strong>Pulp Fiction</strong><Cite id={REF_NUM.PF} /> express emotion.
         </MotionP>
         <MotionP>
-        We found observable, measurable differences in characters' emotional profiles that often align with their established narrative roles and personalities – for instance, the significantly higher average and dominant 'anger' expressed by antagonists like Jimmy. Furthermore, the overall emotional "fingerprints" of the two films showed subtle but distinct characteristics. This data-driven approach complements traditional film analysis by providing objective evidence based directly on the script's text.
+        In this project, I found observable, measurable differences in characters' emotional profiles that often align with their established narrative roles and personalities – for instance, the significantly higher average and dominant 'anger' expressed by antagonists like Jimmy. Furthermore, the overall emotional "fingerprints" of the two films showed subtle but distinct characteristics. This has also given more insights into what kind of dialogues both films have and how they represent emotion in different ways. This data-driven approach complements traditional film analysis by providing objective evidence based directly on the script's text.
         </MotionP>
         <MotionH3>Limitations and Future Work</MotionH3>
         <MotionP>
-          This analysis is a starting point... Current AI models... accuracy of online scripts<Cite id={REF_NUM.SCRIPTS} />...
-        </MotionP>
-        <MotionUl>
-          <MotionLi><strong>Expand Scope:</strong> Analyze more films (e.g., <strong>Taxi Driver</strong><Cite id={REF_NUM.TD} />, <em>Kill Bill</em><Cite id={REF_NUM.KB} />, others)...</MotionLi>
-          {/* ... Other future work points ... */}
+        This analysis has limitations. AI models aren't perfect; they miss sarcasm, subtext, and
+        the nuances of performance. Script accuracy can vary, and analyzing only two films limits
+        generalizability. Future work could involve:
+      </MotionP>
+      <MotionUl>
+        <MotionLi>Analyzing more films by Scorsese, Tarantino, and other directors.</MotionLi>
+        <MotionLi>Using models trained for multimodal analysis (incorporating audio/visual cues).</MotionLi>
+        <MotionLi>Developing methods to better link dialogue emotion to specific plot events or character actions to explore morality more directly.</MotionLi>
+        <MotionLi>Exploring models that detect "humor" explicitly.</MotionLi>
         </MotionUl>
        </SectionContainer>
 
