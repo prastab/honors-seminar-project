@@ -128,7 +128,6 @@ export default function Home() {
           My first pass used <strong>VADER</strong><Cite id={REF_NUM.VADER} />.
           VADER is a lexicon and rule-based tool good for general sentiment, especially text with slang or emphasis (like social media or dialogue). It efficiently provides a single 'compound' score from -1 (very negative) to +1 (very positive), giving a broad measure of polarity.
         </MotionP>
-        <MotionP>
           {/* VADER Plot Images with Subtitle */}
           <div className='flex flex-col items-center gap-2 py-4 px-4'> {/* Wrap images and subtitle */} 
             <div className='flex flex-col md:flex-row justify-center gap-4 md:gap-8'> {/* Image row */} 
@@ -138,7 +137,6 @@ export default function Home() {
             <p className="text-sm text-muted-foreground mt-2">Figure 1: VADER sentiment scores for key characters.</p> {/* Subtitle */} 
           </div>
           <strong>Limitations:</strong> While quick, VADER's single score lacked detail. It couldn't differentiate *types* of negative emotions (anger vs. sadness) and often scored nuanced dialogue as neutral. For deeper insights, a more sophisticated approach was needed.
-        </MotionP>
       </SectionContainer>
 
 
