@@ -1,0 +1,893 @@
+film,character,dialogue,cleaned_dialogue,sentiment_score
+Pulp Fiction,JULES,"� Okay now, tell me about the hash bars?","� Okay now, tell me about the hash bars?",0.2263
+Pulp Fiction,VINCENT,What so you want to know?,What so you want to know?,0.1477
+Pulp Fiction,JULES,"Well, hash is legal there, right?","Well, hash is legal there, right?",0.3818
+Pulp Fiction,VINCENT,"Yeah, it's legal, but is ain't a hundred percent legal. I mean you can't walk into a restaurant, roll a joint, and start puffin' away. You're only supposed to smoke in your home or certain designated places.","Yeah, it's legal, but is ain't a hundred percent legal. I mean you can't walk into a restaurant, roll a joint, and start puffin' away. You're only supposed to smoke in your home or certain designated places.",0.6428
+Pulp Fiction,JULES,Those are hash bars?,Those are hash bars?,0.0
+Pulp Fiction,VINCENT,"Yeah, it breaks down like this: it's legal to buy it, it's legal to own it and, if you're the proprietor of a hash bar, it's legal to sell it. It's legal to carry it, which doesn't really matter 'cause � get a load of this � if the cops stop you, it's illegal for this to search you. Searching you is a right that the cops in Amsterdam don't have.","Yeah, it breaks down like this: it's legal to buy it, it's legal to own it and, if you're the proprietor of a hash bar, it's legal to sell it. It's legal to carry it, which doesn't really matter 'cause � get a load of this � if the cops stop you, it's illegal for this to search you. Searching you is a right that the cops in Amsterdam don't have.",0.1554
+Pulp Fiction,JULES,"That did it, man � I'm fuckin' goin', that's all there is to it.","That did it, man � I'm fuckin' goin', that's all there is to it.",0.0
+Pulp Fiction,VINCENT,You'll dig it the most. But you know what the funniest thing about Europe is?,You'll dig it the most. But you know what the funniest thing about Europe is?,0.7096
+Pulp Fiction,JULES,What?,What?,0.0
+Pulp Fiction,VINCENT,"It's the little differences. A lotta the same shit we got here, they got there, but there they're a little different.","It's the little differences. A lotta the same shit we got here, they got there, but there they're a little different.",-0.3182
+Pulp Fiction,JULES,Examples?,Examples?,0.0
+Pulp Fiction,VINCENT,"Well, in Amsterdam, you can buy beer in a movie theatre. And I don't mean in a paper cup either. They give you a glass of beer, like in a bar. In Paris, you can buy beer at MacDonald's. Also, you know what they call a Quarter Pounder with Cheese in Paris?","Well, in Amsterdam, you can buy beer in a movie theatre. And I don't mean in a paper cup either. They give you a glass of beer, like in a bar. In Paris, you can buy beer at MacDonald's. Also, you know what they call a Quarter Pounder with Cheese in Paris?",0.5574
+Pulp Fiction,JULES,They don't call it a Quarter Pounder with Cheese?,They don't call it a Quarter Pounder with Cheese?,0.0
+Pulp Fiction,VINCENT,"No, they got the metric system there, they wouldn't know what the fuck a Quarter Pounder is.","No, they got the metric system there, they wouldn't know what the fuck a Quarter Pounder is.",-0.5423
+Pulp Fiction,JULES,What'd they call it?,What'd they call it?,0.0
+Pulp Fiction,VINCENT,Royale with Cheese.,Royale with Cheese.,0.0
+Pulp Fiction,VINCENT,"Big Mac's a Big Mac, but they call it Le Big Mac.","Big Mac's a Big Mac, but they call it Le Big Mac.",0.0
+Pulp Fiction,JULES,Le Big Mac. What do they call a Whopper?,Le Big Mac. What do they call a Whopper?,0.0
+Pulp Fiction,VINCENT,"I dunno, I didn't go into a Burger King.  But you know what they put on french fries in Holland instead of ketchup?","I dunno, I didn't go into a Burger King. But you know what they put on french fries in Holland instead of ketchup?",0.0
+Pulp Fiction,JULES,What?,What?,0.0
+Pulp Fiction,VINCENT,Mayonnaise.,Mayonnaise.,0.0
+Pulp Fiction,JULES,Goddamn!,Goddamn!,-0.5255
+Pulp Fiction,VINCENT,"I seen 'em do it. And I don't mean a little bit on the side of the plate, they fuckin' drown 'em in it.","I seen 'em do it. And I don't mean a little bit on the side of the plate, they fuckin' drown 'em in it.",-0.6115
+Pulp Fiction,JULES,Uuccch!,Uuccch!,0.0
+Pulp Fiction,JULES,We should have shotguns for this kind of deal.,We should have shotguns for this kind of deal.,0.0
+Pulp Fiction,VINCENT,How many up there?,How many up there?,0.0
+Pulp Fiction,JULES,Three or four.,Three or four.,0.0
+Pulp Fiction,VINCENT,Counting our guy?,Counting our guy?,0.0
+Pulp Fiction,JULES,I'm not sure.,I'm not sure.,-0.2411
+Pulp Fiction,VINCENT,So there could be five guys up there?,So there could be five guys up there?,0.0
+Pulp Fiction,JULES,It's possible.,It's possible.,0.0
+Pulp Fiction,VINCENT,We should have fuckin' shotguns.,We should have fuckin' shotguns.,0.0
+Pulp Fiction,VINCENT,What's her name?,What's her name?,0.0
+Pulp Fiction,JULES,Mia.,Mia.,-0.296
+Pulp Fiction,VINCENT,How did Marsellus and her meet?,How did Marsellus and her meet?,0.0
+Pulp Fiction,JULES,"I dunno, however people meet people. She usta be an actress.","I dunno, however people meet people. She usta be an actress.",0.0
+Pulp Fiction,VINCENT,She ever do anything I woulda saw?,She ever do anything I woulda saw?,0.0
+Pulp Fiction,JULES,I think her biggest deal was she starred in a pilot.,I think her biggest deal was she starred in a pilot.,0.0
+Pulp Fiction,VINCENT,What's a pilot?,What's a pilot?,0.0
+Pulp Fiction,JULES,"Well, you know the shows on TV?","Well, you know the shows on TV?",0.2732
+Pulp Fiction,VINCENT,I don't watch TV.,I don't watch TV.,0.0
+Pulp Fiction,JULES,"Yes, but you're aware that there's an invention called television, and on that invention they show shows?","Yes, but you're aware that there's an invention called television, and on that invention they show shows?",0.2144
+Pulp Fiction,VINCENT,Yeah.,Yeah.,0.296
+Pulp Fiction,JULES,"Well, the way they pick the shows on TV is they make one show, and that show's called a pilot. And they show that one show to the people who pick the shows, and on the strength of that one show, they decide if they want to make more shows. Some get accepted and become TV programs, and some don't, and become nothing. She starred in one of the ones that became nothing.","Well, the way they pick the shows on TV is they make one show, and that show's called a pilot. And they show that one show to the people who pick the shows, and on the strength of that one show, they decide if they want to make more shows. Some get accepted and become TV programs, and some don't, and become nothing. She starred in one of the ones that became nothing.",0.7717
+Pulp Fiction,JULES,"You remember Antwan Rockamora? Half- black, half-Samoan, usta call him Tony Rocky Horror.","You remember Antwan Rockamora? Half- black, half-Samoan, usta call him Tony Rocky Horror.",-0.5719
+Pulp Fiction,VINCENT,"Yeah maybe, fat right?","Yeah maybe, fat right?",0.296
+Pulp Fiction,JULES,"I wouldn't go so far as to call the brother fat. He's got a weight problem.  What's the nigger gonna do, he's Samoan.","I wouldn't go so far as to call the brother fat. He's got a weight problem. What's the nigger gonna do, he's Samoan.",-0.7906
+Pulp Fiction,VINCENT,"I think I know who you mean, what about him?","I think I know who you mean, what about him?",0.0
+Pulp Fiction,JULES,"Well, Marsellus fucked his ass up good.  And word around the campfire, it was on account of Marsellus Wallace's wife.","Well, Marsellus fucked his ass up good. And word around the campfire, it was on account of Marsellus Wallace's wife.",-0.5994
+Pulp Fiction,VINCENT,"What'd he do, fuck her?","What'd he do, fuck her?",-0.5423
+Pulp Fiction,JULES,"No no no no no no no, nothin' that bad.","No no no no no no no, nothin' that bad.",0.4479
+Pulp Fiction,VINCENT,Well what then?,Well what then?,0.2732
+Pulp Fiction,JULES,He gave her a foot massage.,He gave her a foot massage.,0.0
+Pulp Fiction,VINCENT,A foot massage?,A foot massage?,0.0
+Pulp Fiction,VINCENT,That's all?,That's all?,0.0
+Pulp Fiction,VINCENT,What did Marsellus do?,What did Marsellus do?,0.0
+Pulp Fiction,JULES,"Sent a couple of guys over to his place.  They took him out on the patio of his apartment, threw his ass over the balcony.  Nigger fell four stories. They had this garden at the bottom, enclosed in glass, like one of them greenhouses � nigger fell through that. Since then, he's kinda developed a speech impediment.","Sent a couple of guys over to his place. They took him out on the patio of his apartment, threw his ass over the balcony. Nigger fell four stories. They had this garden at the bottom, enclosed in glass, like one of them greenhouses � nigger fell through that. Since then, he's kinda developed a speech impediment.",-0.891
+Pulp Fiction,VINCENT,That's a damn shame.,That's a damn shame.,-0.7003
+Pulp Fiction,VINCENT,"Still I hafta say, play with matches, ya get burned.","Still I hafta say, play with matches, ya get burned.",0.34
+Pulp Fiction,JULES,Whaddya mean?,Whaddya mean?,0.0
+Pulp Fiction,VINCENT,You don't be givin' Marsellus Wallace's new bride a foot massage.,You don't be givin' Marsellus Wallace's new bride a foot massage.,0.0
+Pulp Fiction,JULES,You don't think he overreacted?,You don't think he overreacted?,0.3089
+Pulp Fiction,VINCENT,"Antwan probably didn't expect Marsellus to react like he did, but he had to expect a reaction.","Antwan probably didn't expect Marsellus to react like he did, but he had to expect a reaction.",0.1901
+Pulp Fiction,JULES,"It was a foot massage, a foot massage is nothing, I give my mother a foot massage.","It was a foot massage, a foot massage is nothing, I give my mother a foot massage.",0.0
+Pulp Fiction,VINCENT,"It's laying hands on Marsellus Wallace's new wife in a familiar way. Is it as bad as eatin' her out � no, but you're in the same fuckin' ballpark.","It's laying hands on Marsellus Wallace's new wife in a familiar way. Is it as bad as eatin' her out � no, but you're in the same fuckin' ballpark.",-0.3071
+Pulp Fiction,JULES,"Whoa... whoa... whoa... stop right there.  Eatin' a bitch out, and givin' a bitch a foot massage ain't even the same fuckin' thing.","Whoa... whoa... whoa... stop right there. Eatin' a bitch out, and givin' a bitch a foot massage ain't even the same fuckin' thing.",-0.8689
+Pulp Fiction,VINCENT,"Not the same thing, the same ballpark.","Not the same thing, the same ballpark.",0.0
+Pulp Fiction,JULES,"It ain't no ballpark either. Look maybe your method of massage differs from mine, but touchin' his lady's feet, and stickin' your tongue in her holyiest of holyies, ain't the same ballpark, ain't the same league, ain't even the same fuckin' sport. Foot massages don't mean shit.","It ain't no ballpark either. Look maybe your method of massage differs from mine, but touchin' his lady's feet, and stickin' your tongue in her holyiest of holyies, ain't the same ballpark, ain't the same league, ain't even the same fuckin' sport. Foot massages don't mean shit.",0.652
+Pulp Fiction,VINCENT,Have you ever given a foot massage?,Have you ever given a foot massage?,0.0
+Pulp Fiction,JULES,Don't be tellin' me about foot massages � I'm the foot fuckin' master.,Don't be tellin' me about foot massages � I'm the foot fuckin' master.,0.0
+Pulp Fiction,VINCENT,Given a lot of 'em?,Given a lot of 'em?,0.0
+Pulp Fiction,JULES,"Shit yeah. I got my technique down man, I don't tickle or nothin'.","Shit yeah. I got my technique down man, I don't tickle or nothin'.",-0.34
+Pulp Fiction,VINCENT,Have you ever given a guy a foot massage?,Have you ever given a guy a foot massage?,0.0
+Pulp Fiction,JULES,Fuck you.,Fuck you.,-0.5423
+Pulp Fiction,VINCENT,How many?,How many?,0.0
+Pulp Fiction,JULES,Fuck you.,Fuck you.,-0.5423
+Pulp Fiction,VINCENT,Would you give me a foot massage � I'm kinda tired.,Would you give me a foot massage � I'm kinda tired.,-0.3832
+Pulp Fiction,JULES,"Man, you best back off, I'm gittin' pissed � this is the door.","Man, you best back off, I'm gittin' pissed � this is the door.",0.0
+Pulp Fiction,JULES,What time is it?,What time is it?,0.0
+Pulp Fiction,JULES,"It ain't quite time, let's hang back.","It ain't quite time, let's hang back.",0.0
+Pulp Fiction,JULES,"Look, just because I wouldn't give no man a foot massage, don't make it right for Marsellus to throw Antwan off a building into a glass- motherfuckin-house, fuckin' up the way the nigger talks. That ain't right, man. Motherfucker do that to me, he better paralyze my ass, 'cause I'd kill'a motherfucker.","Look, just because I wouldn't give no man a foot massage, don't make it right for Marsellus to throw Antwan off a building into a glass- motherfuckin-house, fuckin' up the way the nigger talks. That ain't right, man. Motherfucker do that to me, he better paralyze my ass, 'cause I'd kill'a motherfucker.",-0.7139
+Pulp Fiction,VINCENT,"I'm not sayin' he was right, but you're sayin' a foot massage don't mean nothing, and I'm sayin' it does. I've given a million ladies a million foot massages and they all meant somethin'. We act like they don't, but they do. That's what's so fuckin' cool about 'em. This sensual thing's goin' on that nobody's talkin about, but you know it and she knows it, fuckin' Marsellus knew it, and Antwan shoulda known fuckin' better. That's his fuckin' wife, man. He ain't gonna have a sense of humor about that shit.","I'm not sayin' he was right, but you're sayin' a foot massage don't mean nothing, and I'm sayin' it does. I've given a million ladies a million foot massages and they all meant somethin'. We act like they don't, but they do. That's what's so fuckin' cool about 'em. This sensual thing's goin' on that nobody's talkin about, but you know it and she knows it, fuckin' Marsellus knew it, and Antwan shoulda known fuckin' better. That's his fuckin' wife, man. He ain't gonna have a sense of humor about that shit.",0.8441
+Pulp Fiction,JULES,"That's an interesting point, but let's get into character.","That's an interesting point, but let's get into character.",0.2144
+Pulp Fiction,VINCENT,What's her name again?,What's her name again?,0.0
+Pulp Fiction,JULES,Mia. Why you so interested in big man's wife?,Mia. Why you so interested in big man's wife?,0.3163
+Pulp Fiction,VINCENT,"Well, Marsellus is leavin' for Florida and when he's gone, he wants me to take care of Mia.","Well, Marsellus is leavin' for Florida and when he's gone, he wants me to take care of Mia.",0.4767
+Pulp Fiction,JULES,Take care of her?,Take care of her?,0.4939
+Pulp Fiction,VINCENT,Not that! Take her out. Show her a good time. Don't let her get lonely.,Not that! Take her out. Show her a good time. Don't let her get lonely.,0.1759
+Pulp Fiction,JULES,You're gonna be takin' Mia Wallace out on a date?,You're gonna be takin' Mia Wallace out on a date?,-0.296
+Pulp Fiction,VINCENT,It ain't a date. It's like when you and your buddy's wife go to a movie or somethin'. It's just... you know... good company.,It ain't a date. It's like when you and your buddy's wife go to a movie or somethin'. It's just... you know... good company.,0.6597
+Pulp Fiction,VINCENT,It's not a date.,It's not a date.,0.0
+Pulp Fiction,JULES,Hey kids.,Hey kids.,0.0
+Pulp Fiction,JULES,How you boys doin'?,How you boys doin'?,0.0
+Pulp Fiction,JULES,Do you know who we are?,Do you know who we are?,0.0
+Pulp Fiction,JULES,"We're associates of your business partner Marsellus Wallace, you remember your business partner dont'ya?","We're associates of your business partner Marsellus Wallace, you remember your business partner dont'ya?",0.0
+Pulp Fiction,JULES,"I thought so. Well, you remember your business partner Marsellus Wallace, dont'ya Brett?","I thought so. Well, you remember your business partner Marsellus Wallace, dont'ya Brett?",0.2732
+Pulp Fiction,JULES,"Good for you. Looks like me and Vincent caught you at breakfast, sorry 'bout that.  What'cha eatin'?","Good for you. Looks like me and Vincent caught you at breakfast, sorry 'bout that. What'cha eatin'?",0.6249
+Pulp Fiction,JULES,Hamburgers. The cornerstone of any nutritious breakfast. What kinda hamburgers?,Hamburgers. The cornerstone of any nutritious breakfast. What kinda hamburgers?,0.0
+Pulp Fiction,JULES,"No, I mean where did you get'em? MacDonald's, Wendy's, Jack-in-the- Box, where?","No, I mean where did you get'em? MacDonald's, Wendy's, Jack-in-the- Box, where?",0.0
+Pulp Fiction,JULES,"Big Kahuna Burger. That's that Hawaiian burger joint. I heard they got some tasty burgers. I ain't never had one myself, how are they?","Big Kahuna Burger. That's that Hawaiian burger joint. I heard they got some tasty burgers. I ain't never had one myself, how are they?",0.0
+Pulp Fiction,JULES,Mind if I try one of yours?,Mind if I try one of yours?,0.0
+Pulp Fiction,JULES,"Yours is this one, right?","Yours is this one, right?",0.0
+Pulp Fiction,JULES,"Uuummmm, that's a tasty burger.","Uuummmm, that's a tasty burger.",0.0
+Pulp Fiction,VINCENT,No.,No.,0.0
+Pulp Fiction,JULES,"You wanna bite, they're real good.","You wanna bite, they're real good.",0.4404
+Pulp Fiction,VINCENT,I ain't hungry.,I ain't hungry.,0.0
+Pulp Fiction,JULES,"Well, if you like hamburgers give 'em a try sometime. Me, I can't usually eat 'em 'cause my girlfriend's a vegetarian. Which more or less makes me a vegetarian, but I sure love the taste of a good burger.","Well, if you like hamburgers give 'em a try sometime. Me, I can't usually eat 'em 'cause my girlfriend's a vegetarian. Which more or less makes me a vegetarian, but I sure love the taste of a good burger.",0.9423
+Pulp Fiction,JULES,"Tell 'em, Vincent.","Tell 'em, Vincent.",0.0
+Pulp Fiction,VINCENT,Royale with Cheese.,Royale with Cheese.,0.0
+Pulp Fiction,JULES,"Royale with Cheese, you know why they call it that?","Royale with Cheese, you know why they call it that?",0.0
+Pulp Fiction,JULES,"Check out the big brain on Brett. You'a smart motherfucker, that's right. The metric system.","Check out the big brain on Brett. You'a smart motherfucker, that's right. The metric system.",-0.4404
+Pulp Fiction,JULES,"Sprite, good, mind if I have some of your tasty beverage to wash this down with?","Sprite, good, mind if I have some of your tasty beverage to wash this down with?",0.4404
+Pulp Fiction,JULES,"Uuuuummmm, hit's the spot!","Uuuuummmm, hit's the spot!",0.0
+Pulp Fiction,JULES,"Then why don't you tell my boy here Vince, where you got the shit hid.","Then why don't you tell my boy here Vince, where you got the shit hid.",0.8402
+Pulp Fiction,JULES,� I don't remember askin' you a goddamn thing.,� I don't remember askin' you a goddamn thing.,-0.4767
+Pulp Fiction,VINCENT,Got it.,Got it.,0.0
+Pulp Fiction,JULES,We happy?,We happy?,0.5719
+Pulp Fiction,JULES,Vincent!,Vincent!,0.0
+Pulp Fiction,JULES,We happy?,We happy?,0.5719
+Pulp Fiction,VINCENT,We're happy.,We're happy.,0.5719
+Pulp Fiction,JULES,"My name's Pitt, and you ain't talkin' your ass outta this shit.","My name's Pitt, and you ain't talkin' your ass outta this shit.",-0.1901
+Pulp Fiction,JULES,"Whatsamatter? Oh, you were through anyway.  Well, let me retort. Would you describe for me what Marsellus Wallace looks like?","Whatsamatter? Oh, you were through anyway. Well, let me retort. Would you describe for me what Marsellus Wallace looks like?",0.6072
+Pulp Fiction,JULES,What country you from!,What country you from!,0.0
+Pulp Fiction,JULES,"""What"" ain't no country I know! Do they speak English in ""What?""","""What"" ain't no country I know! Do they speak English in ""What?""",0.2914
+Pulp Fiction,JULES,English-motherfucker-can-you-speak- it?,English-motherfucker-can-you-speak- it?,0.0
+Pulp Fiction,JULES,Then you understand what I'm sayin'?,Then you understand what I'm sayin'?,0.0
+Pulp Fiction,JULES,Now describe what Marsellus Wallace looks like!,Now describe what Marsellus Wallace looks like!,0.4199
+Pulp Fiction,JULES,"Say ""What"" again! C'mon, say ""What"" again!  I dare ya, I double dare ya motherfucker, say ""What"" one more goddamn time!","Say ""What"" again! C'mon, say ""What"" again! I dare ya, I double dare ya motherfucker, say ""What"" one more goddamn time!",-0.8711
+Pulp Fiction,JULES,Now describe to me what Marsellus Wallace looks like!,Now describe to me what Marsellus Wallace looks like!,0.4199
+Pulp Fiction,JULES,� go on!,� go on!,0.0
+Pulp Fiction,JULES,� does he look like a bitch?!,� does he look like a bitch?!,-0.3802
+Pulp Fiction,JULES,Does-he-look-like-a-bitch?!,Does-he-look-like-a-bitch?!,0.0
+Pulp Fiction,JULES,Then why did you try to fuck 'im like a bitch?!,Then why did you try to fuck 'im like a bitch?!,-0.7263
+Pulp Fiction,JULES,"Yes ya did Brett. Ya tried ta fuck 'im.  You ever read the Bible, Brett?","Yes ya did Brett. Ya tried ta fuck 'im. You ever read the Bible, Brett?",-0.2023
+Pulp Fiction,JULES,"There's a passage I got memorized, seems appropriate for this situation: Ezekiel 25:17. ""The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men.  Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers. And you will know my name is the Lord when I lay my vengeance upon you.""","There's a passage I got memorized, seems appropriate for this situation: Ezekiel 25:17. ""The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers. And you will know my name is the Lord when I lay my vengeance upon you.""",-0.9186
+Pulp Fiction,BUTCH,I got no problem with that.,I got no problem with that.,0.3089
+Pulp Fiction,BUTCH,"In the fifth, my ass goes down.","In the fifth, my ass goes down.",-0.5423
+Pulp Fiction,VINCENT,Where's the big man?,Where's the big man?,0.0
+Pulp Fiction,VINCENT,How 'bout a cup of just plain lo' American?,How 'bout a cup of just plain lo' American?,0.0
+Pulp Fiction,VINCENT,At Marsellus' request.,At Marsellus' request.,0.0
+Pulp Fiction,VINCENT,Not yet.,Not yet.,0.0
+Pulp Fiction,VINCENT,What's so funny?,What's so funny?,0.4927
+Pulp Fiction,VINCENT,"Look, I'm not a idiot. She's the big man's fuckin' wife. I'm gonna sit across a table, chew my food with my mouth closed, laugh at her jokes and that's all I'm gonna do.","Look, I'm not a idiot. She's the big man's fuckin' wife. I'm gonna sit across a table, chew my food with my mouth closed, laugh at her jokes and that's all I'm gonna do.",0.8075
+Pulp Fiction,BUTCH,Non.,Non.,0.0
+Pulp Fiction,BUTCH,"Lookin' at somethin', friend?","Lookin' at somethin', friend?",0.4939
+Pulp Fiction,VINCENT,"I ain't your friend, palooka.","I ain't your friend, palooka.",-0.3875
+Pulp Fiction,BUTCH,What was that?,What was that?,0.0
+Pulp Fiction,VINCENT,"I think ya heard me just fine, punchy.","I think ya heard me just fine, punchy.",0.2023
+Pulp Fiction,VINCENT,"Remember, I just got back from Amsterdam.","Remember, I just got back from Amsterdam.",0.0
+Pulp Fiction,VINCENT,That's a bold statement.,That's a bold statement.,0.3818
+Pulp Fiction,VINCENT,"Give me three hundred worth of the madman.  If it's as good as you say, I'll be back for a thousand.","Give me three hundred worth of the madman. If it's as good as you say, I'll be back for a thousand.",0.5859
+Pulp Fiction,VINCENT,Which one's Trudi? The one with all the shit in her face?,Which one's Trudi? The one with all the shit in her face?,0.6553
+Pulp Fiction,VINCENT,I'm on my way somewhere. I got a dinner engagement. Rain check?,I'm on my way somewhere. I got a dinner engagement. Rain check?,0.4588
+Pulp Fiction,VINCENT,You don't mind if I shoot up here?,You don't mind if I shoot up here?,-0.34
+Pulp Fiction,VINCENT,Mucho gracias.,Mucho gracias.,0.0
+Pulp Fiction,VINCENT,You know what some fucker did to it the other day?,You know what some fucker did to it the other day?,-0.6486
+Pulp Fiction,VINCENT,Fuckin' keyed it.,Fuckin' keyed it.,0.0
+Pulp Fiction,VINCENT,"Tell me about it. I had the goddamn thing in storage three years. It's out five fuckin' days � five days, and some dickless piece of shit fucks with it.","Tell me about it. I had the goddamn thing in storage three years. It's out five fuckin' days � five days, and some dickless piece of shit fucks with it.",-0.8689
+Pulp Fiction,VINCENT,"I just wish I caught 'em doin' it, ya know?  Oh man, I'd give anything to catch 'em doin' it. It'a been worth his doin' it, if I coulda just caught 'em, you know what I mean?","I just wish I caught 'em doin' it, ya know? Oh man, I'd give anything to catch 'em doin' it. It'a been worth his doin' it, if I coulda just caught 'em, you know what I mean?",0.6072
+Pulp Fiction,MIA,"Hi, Vincent. I'm getting dressed. The door's open. Come inside and make yourself a drink.","Hi, Vincent. I'm getting dressed. The door's open. Come inside and make yourself a drink.",0.0
+Pulp Fiction,VINCENT,Hello?,Hello?,0.0
+Pulp Fiction,MIA,...warm. Warmer. Disco.,...warm. Warmer. Disco.,0.4767
+Pulp Fiction,VINCENT,Hello.,Hello.,0.0
+Pulp Fiction,MIA,Let's go.,Let's go.,0.0
+Pulp Fiction,VINCENT,What the fuck is this place?,What the fuck is this place?,-0.5423
+Pulp Fiction,MIA,This is Jackrabbit Slim's. An Elvis man should love it.,This is Jackrabbit Slim's. An Elvis man should love it.,0.6369
+Pulp Fiction,VINCENT,"Come on, Mia, let's go get a steak.","Come on, Mia, let's go get a steak.",-0.296
+Pulp Fiction,MIA,"You can get a steak here, daddy-o. Don't be a...","You can get a steak here, daddy-o. Don't be a...",0.0
+Pulp Fiction,VINCENT,"After you, kitty-cat.","After you, kitty-cat.",0.0
+Pulp Fiction,VINCENT,I'll have the Douglas Sirk steak.,I'll have the Douglas Sirk steak.,0.0
+Pulp Fiction,VINCENT,"Bloody as hell. And to drink, a vanilla coke.","Bloody as hell. And to drink, a vanilla coke.",-0.8176
+Pulp Fiction,MIA,I'll have the Durwood Kirby burger � bloody � and a five-dollar shake.,I'll have the Durwood Kirby burger � bloody � and a five-dollar shake.,-0.5574
+Pulp Fiction,MIA,Martin and Lewis.,Martin and Lewis.,0.0
+Pulp Fiction,VINCENT,Did you just order a five-dollar shake?,Did you just order a five-dollar shake?,-0.1779
+Pulp Fiction,MIA,Sure did.,Sure did.,0.3182
+Pulp Fiction,VINCENT,A shake? Milk and ice cream?,A shake? Milk and ice cream?,-0.264
+Pulp Fiction,MIA,Uh-huh.,Uh-huh.,0.0
+Pulp Fiction,VINCENT,It costs five dollars?,It costs five dollars?,0.0
+Pulp Fiction,VINCENT,You don't put bourbon in it or anything?,You don't put bourbon in it or anything?,0.0
+Pulp Fiction,VINCENT,Just checking.,Just checking.,0.0
+Pulp Fiction,MIA,Whaddya think?,Whaddya think?,0.0
+Pulp Fiction,VINCENT,It's like a wax museum with a pulse rate.,It's like a wax museum with a pulse rate.,0.3612
+Pulp Fiction,MIA,What are you doing?,What are you doing?,0.0
+Pulp Fiction,VINCENT,Rollin' a smoke.,Rollin' a smoke.,0.0
+Pulp Fiction,MIA,Here?,Here?,0.0
+Pulp Fiction,VINCENT,It's just tobacco.,It's just tobacco.,0.0
+Pulp Fiction,MIA,"Oh. Well in that case, will you roll me one, cowboy?","Oh. Well in that case, will you roll me one, cowboy?",0.2732
+Pulp Fiction,VINCENT,"You can have this one, cowgirl.","You can have this one, cowgirl.",0.0
+Pulp Fiction,MIA,Thanks.,Thanks.,0.4404
+Pulp Fiction,VINCENT,Think nothing of it.,Think nothing of it.,0.0
+Pulp Fiction,MIA,Marsellus said you just got back from Amsterdam.,Marsellus said you just got back from Amsterdam.,0.0
+Pulp Fiction,VINCENT,Sure did. I heard you did a pilot.,Sure did. I heard you did a pilot.,0.3182
+Pulp Fiction,MIA,That was my fifteen minutes.,That was my fifteen minutes.,0.0
+Pulp Fiction,VINCENT,What was it?,What was it?,0.0
+Pulp Fiction,MIA,"It was show about a team of female secret agents called ""Fox Force Five.""","It was show about a team of female secret agents called ""Fox Force Five.""",0.0
+Pulp Fiction,VINCENT,What?,What?,0.0
+Pulp Fiction,MIA,"""Fox Force Five."" Fox, as in we're a bunch of foxy chicks. Force, as in we're a force to be reckoned with. Five, as in there's one... two ... three... four... five of us. There was a blonde one, Sommerset O'Neal from that show ""Baton Rouge,"" she was the leader. A Japanese one, a black one, a French one and a brunette one, me.  We all had special skills. Sommerset had a photographic memory, the Japanese fox was a kung fu master, the black girl was a demolition expert, the French fox' specialty was sex...","""Fox Force Five."" Fox, as in we're a bunch of foxy chicks. Force, as in we're a force to be reckoned with. Five, as in there's one... two ... three... four... five of us. There was a blonde one, Sommerset O'Neal from that show ""Baton Rouge,"" she was the leader. A Japanese one, a black one, a French one and a brunette one, me. We all had special skills. Sommerset had a photographic memory, the Japanese fox was a kung fu master, the black girl was a demolition expert, the French fox' specialty was sex...",-0.4588
+Pulp Fiction,VINCENT,What was your specialty?,What was your specialty?,0.0
+Pulp Fiction,MIA,"Knives. The character I played, Raven McCoy, her background was she was raised by circus performers. So she grew up doing a knife act. According to the show, she was the deadliest woman in the world with a knife. But because she grew up in a circus, she was also something of an acrobat. She could do illusions, she was a trapeze artist � when you're keeping the world safe from evil, you never know when being a trapeze artist's gonna come in handy. And she knew a zillion old jokes her grandfather, an old vaudevillian, taught her. If we woulda got picked up, they woulda worked in a gimmick where every episode I woulda told and ol joke.","Knives. The character I played, Raven McCoy, her background was she was raised by circus performers. So she grew up doing a knife act. According to the show, she was the deadliest woman in the world with a knife. But because she grew up in a circus, she was also something of an acrobat. She could do illusions, she was a trapeze artist � when you're keeping the world safe from evil, you never know when being a trapeze artist's gonna come in handy. And she knew a zillion old jokes her grandfather, an old vaudevillian, taught her. If we woulda got picked up, they woulda worked in a gimmick where every episode I woulda told and ol joke.",0.4118
+Pulp Fiction,VINCENT,Do you remember any of the jokes?,Do you remember any of the jokes?,0.25
+Pulp Fiction,MIA,"Well I only got the chance to say one, 'cause we only did one show.","Well I only got the chance to say one, 'cause we only did one show.",0.4767
+Pulp Fiction,VINCENT,Tell me.,Tell me.,0.0
+Pulp Fiction,MIA,No. It's really corny.,No. It's really corny.,0.0
+Pulp Fiction,VINCENT,"C'mon, don't be that way.","C'mon, don't be that way.",0.0
+Pulp Fiction,MIA,No. You won't like it and I'll be embarrassed.,No. You won't like it and I'll be embarrassed.,-0.5588
+Pulp Fiction,VINCENT,You told it in front of fifty million people and you can't tell it to me? I promise I won't laugh.,You told it in front of fifty million people and you can't tell it to me? I promise I won't laugh.,-0.1591
+Pulp Fiction,VINCENT,That's not what I meant and you know it.,That's not what I meant and you know it.,0.0
+Pulp Fiction,MIA,"You're quite the silver tongue devil, aren't you?","You're quite the silver tongue devil, aren't you?",-0.6597
+Pulp Fiction,VINCENT,I meant I wouldn't laugh at you.,I meant I wouldn't laugh at you.,-0.4449
+Pulp Fiction,MIA,"That's not what you said Vince. Well now I'm definitely not gonna tell ya, 'cause it's been built up too much.","That's not what you said Vince. Well now I'm definitely not gonna tell ya, 'cause it's been built up too much.",0.5859
+Pulp Fiction,VINCENT,What a gyp.,What a gyp.,0.0
+Pulp Fiction,MIA,Yummy!,Yummy!,0.5707
+Pulp Fiction,VINCENT,Can I have a sip of that? I'd like to know what a five-dollar shake tastes like.,Can I have a sip of that? I'd like to know what a five-dollar shake tastes like.,0.5106
+Pulp Fiction,MIA,Be my guest.,Be my guest.,0.0
+Pulp Fiction,MIA,"You can use my straw, I don't have kooties.","You can use my straw, I don't have kooties.",0.0
+Pulp Fiction,VINCENT,"Yeah, but maybe I do.","Yeah, but maybe I do.",0.1531
+Pulp Fiction,MIA,Kooties I can handle.,Kooties I can handle.,0.0
+Pulp Fiction,VINCENT,Goddamn! That's a pretty fuckin' good milk shake.,Goddamn! That's a pretty fuckin' good milk shake.,0.3861
+Pulp Fiction,MIA,Told ya.,Told ya.,0.0
+Pulp Fiction,VINCENT,"I don't know if it's worth five dollars, but it's pretty fuckin' good.","I don't know if it's worth five dollars, but it's pretty fuckin' good.",0.8761
+Pulp Fiction,MIA,Don't you hate that?,Don't you hate that?,0.4585
+Pulp Fiction,VINCENT,What?,What?,0.0
+Pulp Fiction,MIA,Uncomfortable silences. Why do we feel it's necessary to yak about bullshit in order to be comfortable?,Uncomfortable silences. Why do we feel it's necessary to yak about bullshit in order to be comfortable?,-0.4767
+Pulp Fiction,VINCENT,I don't know.,I don't know.,0.0
+Pulp Fiction,MIA,"That's when you know you found somebody special. When you can just shit the fuck up for a minute, and comfortably share silence.","That's when you know you found somebody special. When you can just shit the fuck up for a minute, and comfortably share silence.",-0.1027
+Pulp Fiction,VINCENT,"I don't think we're there yet. But don't feel bad, we just met each other.","I don't think we're there yet. But don't feel bad, we just met each other.",0.5824
+Pulp Fiction,MIA,"Well I'll tell you what, I'll go to the bathroom and powder my nose, while you sit here and think of something to say.","Well I'll tell you what, I'll go to the bathroom and powder my nose, while you sit here and think of something to say.",0.2732
+Pulp Fiction,VINCENT,I'll do that.,I'll do that.,0.0
+Pulp Fiction,MIA,Don't you love it when you go to the bathroom and you come back to find your food waiting for you?,Don't you love it when you go to the bathroom and you come back to find your food waiting for you?,-0.5216
+Pulp Fiction,VINCENT,We're lucky we got it at all. Buddy Holly doesn't seem to be much of a waiter. We shoulda sat in Marilyn Monroe's section.,We're lucky we got it at all. Buddy Holly doesn't seem to be much of a waiter. We shoulda sat in Marilyn Monroe's section.,0.4215
+Pulp Fiction,MIA,"Which one, there's two Marilyn Monroes.","Which one, there's two Marilyn Monroes.",0.0
+Pulp Fiction,VINCENT,No there's not.,No there's not.,-0.296
+Pulp Fiction,VINCENT,That's Marilyn Monroe...,That's Marilyn Monroe...,0.0
+Pulp Fiction,VINCENT,"... and that's Mamie Van Doren. I don't see Jayne Mansfield, so it must be her night off.","... and that's Mamie Van Doren. I don't see Jayne Mansfield, so it must be her night off.",0.0
+Pulp Fiction,MIA,Pretty smart.,Pretty smart.,0.7096
+Pulp Fiction,VINCENT,I have moments.,I have moments.,0.0
+Pulp Fiction,MIA,Did ya think of something to say?,Did ya think of something to say?,0.0
+Pulp Fiction,VINCENT,"Actually, there's something I've wanted to ask you about, but you seem like a nice person, and I didn't want to offend you.","Actually, there's something I've wanted to ask you about, but you seem like a nice person, and I didn't want to offend you.",0.838
+Pulp Fiction,MIA,"Oooohhhh, this doesn't sound like mindless, boring, getting-to-know- you chit-chat. This sounds like you actually have something to say.","Oooohhhh, this doesn't sound like mindless, boring, getting-to-know- you chit-chat. This sounds like you actually have something to say.",0.127
+Pulp Fiction,VINCENT,Only if you promise not to get offended.,Only if you promise not to get offended.,0.466
+Pulp Fiction,MIA,"You can't promise something like that. I have no idea what you're gonna ask. You could ask me what you're gonna ask me, and my natural response could be to be offended. Then, through no fault of my own, I woulda broken my promise.","You can't promise something like that. I have no idea what you're gonna ask. You could ask me what you're gonna ask me, and my natural response could be to be offended. Then, through no fault of my own, I woulda broken my promise.",-0.5129
+Pulp Fiction,VINCENT,Then let's just forget it.,Then let's just forget it.,-0.2263
+Pulp Fiction,MIA,That is an impossibility. Trying to forget anything as intriguing as this would be an exercise in futility.,That is an impossibility. Trying to forget anything as intriguing as this would be an exercise in futility.,-0.2263
+Pulp Fiction,VINCENT,Is that a fact?,Is that a fact?,0.0
+Pulp Fiction,MIA,"Besides, it's more exciting when you don't have permission.","Besides, it's more exciting when you don't have permission.",0.5413
+Pulp Fiction,VINCENT,What do you think about what happened to Antwan?,What do you think about what happened to Antwan?,0.0
+Pulp Fiction,MIA,Who's Antwan?,Who's Antwan?,0.0
+Pulp Fiction,VINCENT,Tony Rocky Horror.,Tony Rocky Horror.,-0.5719
+Pulp Fiction,MIA,He fell out of a window.,He fell out of a window.,0.0
+Pulp Fiction,VINCENT,"That's one way to say it. Another way is, he was thrown out. Another was is, he was thrown out by Marsellus. And even another way is, he was thrown out of a window by Marsellus because of you.","That's one way to say it. Another way is, he was thrown out. Another was is, he was thrown out by Marsellus. And even another way is, he was thrown out of a window by Marsellus because of you.",0.0
+Pulp Fiction,MIA,Is that a fact?,Is that a fact?,0.0
+Pulp Fiction,VINCENT,"No it's not, it's just what I heard.","No it's not, it's just what I heard.",-0.296
+Pulp Fiction,MIA,Who told you this?,Who told you this?,0.0
+Pulp Fiction,VINCENT,They.,They.,0.0
+Pulp Fiction,MIA,"They talk a lot, don't they?","They talk a lot, don't they?",0.0
+Pulp Fiction,VINCENT,They certainly do.,They certainly do.,0.34
+Pulp Fiction,MIA,"Well don't by shy Vincent, what exactly did they say?","Well don't by shy Vincent, what exactly did they say?",0.4291
+Pulp Fiction,MIA,"Let me help you Bashful, did it involve the F-word?","Let me help you Bashful, did it involve the F-word?",0.3818
+Pulp Fiction,VINCENT,No. They just said Rocky Horror gave you a foot massage.,No. They just said Rocky Horror gave you a foot massage.,-0.5719
+Pulp Fiction,MIA,And...?,And...?,0.0
+Pulp Fiction,VINCENT,"No and, that's it.","No and, that's it.",-0.296
+Pulp Fiction,MIA,You heard Marsellus threw Rocky Horror out of a four-story window because he massaged my feet?,You heard Marsellus threw Rocky Horror out of a four-story window because he massaged my feet?,-0.5719
+Pulp Fiction,VINCENT,Yeah.,Yeah.,0.296
+Pulp Fiction,MIA,And you believed that?,And you believed that?,0.0
+Pulp Fiction,VINCENT,"At the time I was told, it seemed reasonable.","At the time I was told, it seemed reasonable.",0.0
+Pulp Fiction,MIA,Marsellus throwing Tony out of a four story window for giving me a foot massage seemed reasonable?,Marsellus throwing Tony out of a four story window for giving me a foot massage seemed reasonable?,0.34
+Pulp Fiction,VINCENT,"No, it seemed excessive. But that doesn't mean it didn't happen. I heard Marsellus is very protective of you.","No, it seemed excessive. But that doesn't mean it didn't happen. I heard Marsellus is very protective of you.",0.0
+Pulp Fiction,MIA,A husband being protective of his wife is one thing. A husband almost killing another man for touching his wife's feet is something else.,A husband being protective of his wife is one thing. A husband almost killing another man for touching his wife's feet is something else.,-0.6258
+Pulp Fiction,VINCENT,But did it happen?,But did it happen?,0.0
+Pulp Fiction,MIA,"The only thing Antwan ever touched of mine was my hand, when he shook it. I met Anwan once � at my wedding � then never again.  The truth is, nobody knows why Marsellus tossed Tony Rocky Horror out of that window except Marsellus and Tony Rocky Horror. But when you scamps get together, you're worse than a sewing circle.","The only thing Antwan ever touched of mine was my hand, when he shook it. I met Anwan once � at my wedding � then never again. The truth is, nobody knows why Marsellus tossed Tony Rocky Horror out of that window except Marsellus and Tony Rocky Horror. But when you scamps get together, you're worse than a sewing circle.",-0.8142
+Pulp Fiction,MIA,Right here.,Right here.,0.0
+Pulp Fiction,MIA,I wanna dance.,I wanna dance.,0.0
+Pulp Fiction,VINCENT,"No, no, no no, no, no, no, no.","No, no, no no, no, no, no, no.",-0.296
+Pulp Fiction,MIA,"So, dance good.","So, dance good.",0.4404
+Pulp Fiction,VINCENT,"All right, you asked for it.","All right, you asked for it.",0.0
+Pulp Fiction,VINCENT,Was than an uncomfortable silence?,Was than an uncomfortable silence?,-0.3818
+Pulp Fiction,MIA,I don't know what that was.,I don't know what that was.,0.0
+Pulp Fiction,VINCENT,I'm gonna take a piss.,I'm gonna take a piss.,-0.4019
+Pulp Fiction,MIA,"That was a little bit more information than I needed to know, but go right ahead.","That was a little bit more information than I needed to know, but go right ahead.",0.0
+Pulp Fiction,VINCENT,"One drink and leave. Don't be rude, but drink your drink quickly, say goodbye, walk out the door, get in your car, and go down the road.","One drink and leave. Don't be rude, but drink your drink quickly, say goodbye, walk out the door, get in your car, and go down the road.",0.163
+Pulp Fiction,VINCENT,"...It's a moral test of yourself, whether or not you can maintain loyalty. Because when people are loyal to each other, that's very meaningful.","...It's a moral test of yourself, whether or not you can maintain loyalty. Because when people are loyal to each other, that's very meaningful.",0.8479
+Pulp Fiction,VINCENT,"So you're gonna go out there, drink your drink, say ""Goodnight, I've had a very lovely evening,"" go home, and jack off.  And that's all you're gonna do.","So you're gonna go out there, drink your drink, say ""Goodnight, I've had a very lovely evening,"" go home, and jack off. And that's all you're gonna do.",0.624
+Pulp Fiction,VINCENT,Jesus Christ!,Jesus Christ!,0.0
+Pulp Fiction,VINCENT,"We're on our feet now, and now we're gonna talk out to the car. Here we go, watch us walk.","We're on our feet now, and now we're gonna talk out to the car. Here we go, watch us walk.",0.0
+Pulp Fiction,VINCENT,"Lance, this is Vincent, I'm in big fuckin' trouble man, I'm on my way to your place.","Lance, this is Vincent, I'm in big fuckin' trouble man, I'm on my way to your place.",-0.4576
+Pulp Fiction,VINCENT,You still got an adrenaline shot?,You still got an adrenaline shot?,0.0
+Pulp Fiction,VINCENT,"I need it man, I got a chick she's fuckin'  Doing on me.","I need it man, I got a chick she's fuckin' Doing on me.",0.0
+Pulp Fiction,VINCENT,No choice.,No choice.,-0.296
+Pulp Fiction,VINCENT,Yeah. She's dyin'.,Yeah. She's dyin'.,0.296
+Pulp Fiction,VINCENT,Negative.,Negative.,-0.5719
+Pulp Fiction,VINCENT,Sorry.,Sorry.,-0.0772
+Pulp Fiction,VINCENT,"Too late, I'm already here.","Too late, I'm already here.",0.0
+Pulp Fiction,VINCENT,"If you're through havin' your little hissy fit, this chick is dyin', get your needle and git it now!","If you're through havin' your little hissy fit, this chick is dyin', get your needle and git it now!",0.364
+Pulp Fiction,VINCENT,"This fucked up bitch is Marsellus Wallace's wife. Now if she fuckin' croaks on me, I'm a grease spot. But before he turns me into a bar soap, I'm gonna be forced to tell 'im about how you coulda saved her life, but instead you let her die on your front lawn.","This fucked up bitch is Marsellus Wallace's wife. Now if she fuckin' croaks on me, I'm a grease spot. But before he turns me into a bar soap, I'm gonna be forced to tell 'im about how you coulda saved her life, but instead you let her die on your front lawn.",-0.8945
+Pulp Fiction,VINCENT,She's ODing on us.,She's ODing on us.,0.0
+Pulp Fiction,VINCENT,What do you need a medical book for?,What do you need a medical book for?,0.0
+Pulp Fiction,VINCENT,You've had that thing for six years and you never used it?,You've had that thing for six years and you never used it?,0.0
+Pulp Fiction,VINCENT,Well then get it.,Well then get it.,0.2732
+Pulp Fiction,VINCENT,I'm not fuckin' stoppin' you.,I'm not fuckin' stoppin' you.,0.0
+Pulp Fiction,VINCENT,Hurry up man! We're losin' her!,Hurry up man! We're losin' her!,0.0
+Pulp Fiction,VINCENT,"I dunno, some medical book.","I dunno, some medical book.",0.0
+Pulp Fiction,VINCENT,"� get your ass in here, fuck the book!","� get your ass in here, fuck the book!",-0.807
+Pulp Fiction,VINCENT,Quit fuckin' around man and give her the shot!,Quit fuckin' around man and give her the shot!,0.0
+Pulp Fiction,VINCENT,Does it have to be exact?,Does it have to be exact?,0.0
+Pulp Fiction,VINCENT,"Well, I don't know exactly where her heart is, I think it's here.","Well, I don't know exactly where her heart is, I think it's here.",0.743
+Pulp Fiction,VINCENT,"I need a big fat magic marker, got one?","I need a big fat magic marker, got one?",0.0
+Pulp Fiction,VINCENT,"I need a big fat magic marker, any felt pen'll do, but a magic marker would be great.","I need a big fat magic marker, any felt pen'll do, but a magic marker would be great.",0.7684
+Pulp Fiction,VINCENT,You're gonna give her the shot.,You're gonna give her the shot.,0.0
+Pulp Fiction,VINCENT,I've never does this before.,I've never does this before.,0.0
+Pulp Fiction,VINCENT,"Okay, what do I do?","Okay, what do I do?",0.2263
+Pulp Fiction,VINCENT,I gotta stab her?,I gotta stab her?,-0.5859
+Pulp Fiction,VINCENT,What happens after that?,What happens after that?,0.0
+Pulp Fiction,VINCENT,This ain't a fuckin' joke man!,This ain't a fuckin' joke man!,-0.3393
+Pulp Fiction,VINCENT,Count to three.,Count to three.,0.0
+Pulp Fiction,MIA,Something.,Something.,0.0
+Pulp Fiction,VINCENT,Mia!,Mia!,-0.3595
+Pulp Fiction,VINCENT,What are your thoughts on how to handle this?,What are your thoughts on how to handle this?,0.0
+Pulp Fiction,MIA,What's yours?,What's yours?,0.0
+Pulp Fiction,VINCENT,Well I'm of the opinion that Marsellus can live his whole live and never ever hear of this incident.,Well I'm of the opinion that Marsellus can live his whole live and never ever hear of this incident.,0.2732
+Pulp Fiction,MIA,"Don't worry about it. If Marsellus ever heard of this, I'd be in as much trouble as you.","Don't worry about it. If Marsellus ever heard of this, I'd be in as much trouble as you.",-0.0757
+Pulp Fiction,VINCENT,I seriously doubt that.,I seriously doubt that.,-0.4939
+Pulp Fiction,MIA,"If you can keep a secret, so can I.","If you can keep a secret, so can I.",0.0
+Pulp Fiction,VINCENT,Let's shake on it.,Let's shake on it.,-0.1779
+Pulp Fiction,VINCENT,Mum's the word.,Mum's the word.,0.0
+Pulp Fiction,VINCENT,"If you'll excuse me, I gotta go home and have a heart attack.","If you'll excuse me, I gotta go home and have a heart attack.",0.34
+Pulp Fiction,MIA,"You still wanna hear my ""FOX FORCE FIVE"" joke?","You still wanna hear my ""FOX FORCE FIVE"" joke?",0.296
+Pulp Fiction,VINCENT,"Sure, but I think I'm still a little too petrified to laugh.","Sure, but I think I'm still a little too petrified to laugh.",0.2999
+Pulp Fiction,MIA,"Uh-huh. You won't laugh because it's not funny. But if you still wanna hear it, I'll tell it.","Uh-huh. You won't laugh because it's not funny. But if you still wanna hear it, I'll tell it.",-0.395
+Pulp Fiction,VINCENT,I can't wait.,I can't wait.,0.0
+Pulp Fiction,MIA,"Three tomatoes are walking down the street, a poppa tomato, a momma tomato, and a little baby tomato. The baby tomato is lagging behind the poppa and momma tomato. The poppa tomato gets mad, goes over to the momma tomato and stamps on him �","Three tomatoes are walking down the street, a poppa tomato, a momma tomato, and a little baby tomato. The baby tomato is lagging behind the poppa and momma tomato. The poppa tomato gets mad, goes over to the momma tomato and stamps on him �",-0.6486
+Pulp Fiction,MIA,"See ya 'round, Vince.","See ya 'round, Vince.",0.0
+Pulp Fiction,BUTCH,Uh-huh.,Uh-huh.,0.0
+Pulp Fiction,BUTCH,I'm ready.,I'm ready.,0.3612
+Pulp Fiction,BUTCH,"If you're the cab I called, I'm the guy you're supposed to pick up.","If you're the cab I called, I'm the guy you're supposed to pick up.",0.0
+Pulp Fiction,BUTCH,Outta here.,Outta here.,0.0
+Pulp Fiction,VINCENT,Mia. How you doin'?,Mia. How you doin'?,-0.296
+Pulp Fiction,MIA,Great. I never thanked you for the dinner.,Great. I never thanked you for the dinner.,0.4007
+Pulp Fiction,BUTCH,"Hey, how do I open the window back here?","Hey, how do I open the window back here?",0.0
+Pulp Fiction,BUTCH,Whatever gave you that idea?,Whatever gave you that idea?,0.0
+Pulp Fiction,BUTCH,He's dead?,He's dead?,-0.6486
+Pulp Fiction,BUTCH,Are you some kinda weirdo?,Are you some kinda weirdo?,-0.3626
+Pulp Fiction,BUTCH,"Tell ya what, you give me one of them cigarettes, I'll give you an answer.","Tell ya what, you give me one of them cigarettes, I'll give you an answer.",0.0
+Pulp Fiction,BUTCH,So...,So...,0.0
+Pulp Fiction,BUTCH,...Esmarelda Villalobos � is that Mexican?,...Esmarelda Villalobos � is that Mexican?,0.0
+Pulp Fiction,BUTCH,It's a very pretty name.,It's a very pretty name.,0.5413
+Pulp Fiction,BUTCH,"That's one hell of a name you got there, sister.","That's one hell of a name you got there, sister.",-0.6808
+Pulp Fiction,BUTCH,Butch.,Butch.,0.0
+Pulp Fiction,BUTCH,"I'm an American, our names don't mean shit. Anyway, moving right along, what is it you wanna know, Esmarelda?","I'm an American, our names don't mean shit. Anyway, moving right along, what is it you wanna know, Esmarelda?",0.4449
+Pulp Fiction,BUTCH,"� I couldn't tell ya. I didn't know he was dead 'til you told me he was dead. Now I know he's dead, do you wanna know how I feel about it?","� I couldn't tell ya. I didn't know he was dead 'til you told me he was dead. Now I know he's dead, do you wanna know how I feel about it?",-0.9313
+Pulp Fiction,BUTCH,I don't feel the least little bit bad.,I don't feel the least little bit bad.,-0.4976
+Pulp Fiction,BUTCH,Merci beaucoup. And here's a little something for the effort.,Merci beaucoup. And here's a little something for the effort.,0.0
+Pulp Fiction,BUTCH,"Now if anybody should ask you about who your fare was tonight, what're you gonna tell 'em?","Now if anybody should ask you about who your fare was tonight, what're you gonna tell 'em?",0.0
+Pulp Fiction,BUTCH,"Bon soir, Esmarelda.","Bon soir, Esmarelda.",0.0
+Pulp Fiction,BUTCH,"Is that better, sugar pop?","Is that better, sugar pop?",0.4404
+Pulp Fiction,BUTCH,Pretty hard. I got into a fight.,Pretty hard. I got into a fight.,0.0516
+Pulp Fiction,BUTCH,Uh-huh?,Uh-huh?,0.0
+Pulp Fiction,BUTCH,You were lookin' in the mirror and you wish you had some pot?,You were lookin' in the mirror and you wish you had some pot?,0.4019
+Pulp Fiction,BUTCH,"Well you should be happy, 'cause you do.","Well you should be happy, 'cause you do.",0.7003
+Pulp Fiction,BUTCH,I didn't realize there was a difference between a tummy and a pot belly.,I didn't realize there was a difference between a tummy and a pot belly.,0.0
+Pulp Fiction,BUTCH,You want me to have a pot?,You want me to have a pot?,0.0772
+Pulp Fiction,BUTCH,You think guys would find that attractive?,You think guys would find that attractive?,0.4404
+Pulp Fiction,BUTCH,"If you a pot belly, I'd punch you in it.","If you a pot belly, I'd punch you in it.",0.0
+Pulp Fiction,BUTCH,Right in the belly.,Right in the belly.,0.0
+Pulp Fiction,BUTCH,You'd do that to me?,You'd do that to me?,0.0
+Pulp Fiction,BUTCH,"Did you get everything, sugar pop?","Did you get everything, sugar pop?",0.0
+Pulp Fiction,BUTCH,Good job.,Good job.,0.4404
+Pulp Fiction,BUTCH,You didn't listen to the radio?,You didn't listen to the radio?,0.0
+Pulp Fiction,BUTCH,I won alright.,I won alright.,0.6908
+Pulp Fiction,BUTCH,Sure am.,Sure am.,0.3182
+Pulp Fiction,BUTCH,Floyd retired too.,Floyd retired too.,0.0
+Pulp Fiction,BUTCH,Not no more.,Not no more.,0.2235
+Pulp Fiction,BUTCH,"We ain't at the finish, baby.","We ain't at the finish, baby.",0.0
+Pulp Fiction,BUTCH,"Fabienne, I want you to be with me.","Fabienne, I want you to be with me.",0.0772
+Pulp Fiction,BUTCH,...and ever.,...and ever.,0.0
+Pulp Fiction,BUTCH,Oui.,Oui.,0.0
+Pulp Fiction,BUTCH,Will you kiss it?,Will you kiss it?,0.4215
+Pulp Fiction,BUTCH,I think I cracked a rib.,I think I cracked a rib.,0.0
+Pulp Fiction,BUTCH,"No retard, from the fight.","No retard, from the fight.",0.0454
+Pulp Fiction,BUTCH,"Okay, sorry, sorry, sorry, I take it back!  Can I have a towel please, Miss Beautiful Tulip.","Okay, sorry, sorry, sorry, I take it back! Can I have a towel please, Miss Beautiful Tulip.",0.7088
+Pulp Fiction,BUTCH,"I didn't call you a Mongoloid, I called you a retard, but I took it back.","I didn't call you a Mongoloid, I called you a retard, but I took it back.",-0.296
+Pulp Fiction,BUTCH,Merci beaucoup.,Merci beaucoup.,0.0
+Pulp Fiction,BUTCH,"I'm not sure yet. Wherever you want. We're gonna get a lot of money from this. But it ain't gonna be so much, we can live like hogs in the fat house forever. I was thinking we could go somewhere in the South Pacific. The kinda money we'll have'll carry us a long way down there.","I'm not sure yet. Wherever you want. We're gonna get a lot of money from this. But it ain't gonna be so much, we can live like hogs in the fat house forever. I was thinking we could go somewhere in the South Pacific. The kinda money we'll have'll carry us a long way down there.",0.444
+Pulp Fiction,BUTCH,"You betcha. And if after awhile you don't dig Bora Bora, then we can move over to Tahiti or Mexico.","You betcha. And if after awhile you don't dig Bora Bora, then we can move over to Tahiti or Mexico.",0.0
+Pulp Fiction,BUTCH,"You don't speak Bora Boran either. Besides, Mexican is easy: Donde esta el zapataria?","You don't speak Bora Boran either. Besides, Mexican is easy: Donde esta el zapataria?",0.4404
+Pulp Fiction,BUTCH,Where's the shoe store?,Where's the shoe store?,0.0
+Pulp Fiction,BUTCH,Excellent pronunciation. You'll be my little mama ceta in no time.,Excellent pronunciation. You'll be my little mama ceta in no time.,0.3612
+Pulp Fiction,BUTCH,Que hora es?,Que hora es?,0.0
+Pulp Fiction,BUTCH,What time is it?,What time is it?,0.0
+Pulp Fiction,BUTCH,"Time for bed. Sweet dream, jellybean.","Time for bed. Sweet dream, jellybean.",0.6124
+Pulp Fiction,BUTCH,What are you watching?,What are you watching?,0.0
+Pulp Fiction,BUTCH,Are you watchin' it?,Are you watchin' it?,0.0
+Pulp Fiction,BUTCH,Would you please?,Would you please?,0.3182
+Pulp Fiction,BUTCH,It's a little too early in the morning for explosions and war.,It's a little too early in the morning for explosions and war.,-0.5994
+Pulp Fiction,BUTCH,"How should I know, you were the one watchin' it.","How should I know, you were the one watchin' it.",0.0
+Pulp Fiction,BUTCH,"Oh, I... don't remember. It's really rare I remember a dream.","Oh, I... don't remember. It's really rare I remember a dream.",0.25
+Pulp Fiction,BUTCH,"Fabienne, I'm not lying to you, I don't remember.","Fabienne, I'm not lying to you, I don't remember.",0.4168
+Pulp Fiction,BUTCH,"I don't talk in my sleep, do I talk in my sleep?","I don't talk in my sleep, do I talk in my sleep?",0.0
+Pulp Fiction,BUTCH,What did I say?,What did I say?,0.0
+Pulp Fiction,BUTCH,One more kiss and I'll get up.,One more kiss and I'll get up.,0.4754
+Pulp Fiction,BUTCH,Yep.,Yep.,0.296
+Pulp Fiction,BUTCH,What time is it?,What time is it?,0.0
+Pulp Fiction,BUTCH,Eleven.,Eleven.,0.0
+Pulp Fiction,BUTCH,Pie for breakfast?,Pie for breakfast?,0.0
+Pulp Fiction,BUTCH,� where's my watch?,� where's my watch?,0.0
+Pulp Fiction,BUTCH,"No, it's not. It's not here.","No, it's not. It's not here.",0.0
+Pulp Fiction,BUTCH,Yes I've fuckin' looked!!,Yes I've fuckin' looked!!,0.508
+Pulp Fiction,BUTCH,What the fuck do you think I'm doing?! Are you sure you got it?,What the fuck do you think I'm doing?! Are you sure you got it?,-0.4314
+Pulp Fiction,BUTCH,� on the little kangaroo.,� on the little kangaroo.,0.0
+Pulp Fiction,BUTCH,Well it's not here!,Well it's not here!,0.3382
+Pulp Fiction,BUTCH,"Oh it most definitely should be here, but it's not. So where is it?","Oh it most definitely should be here, but it's not. So where is it?",0.2492
+Pulp Fiction,BUTCH,"Fabienne, that was my father's fuckin' watch. You know what my father went through to git me that watch?... I don't wanna get into it right now... but he went through a lot. Now all this other shit, you coulda set on fire, but I specifically reminded you not to forget my father's watch. Now think, did you get it?","Fabienne, that was my father's fuckin' watch. You know what my father went through to git me that watch?... I don't wanna get into it right now... but he went through a lot. Now all this other shit, you coulda set on fire, but I specifically reminded you not to forget my father's watch. Now think, did you get it?",-0.8106
+Pulp Fiction,BUTCH,"You believe so? You either did, or you didn't, now which one is it?","You believe so? You either did, or you didn't, now which one is it?",0.0
+Pulp Fiction,BUTCH,Are you sure?,Are you sure?,0.3182
+Pulp Fiction,BUTCH,"If you did leave it at the apartment, it's not your fault. I had you bring a bunch of stuff. I reminded you about it, but I didn't illustrate how personal the watch was to me. If all I gave a fuck about was my watch, I should've told you. You ain't a mind reader.","If you did leave it at the apartment, it's not your fault. I had you bring a bunch of stuff. I reminded you about it, but I didn't illustrate how personal the watch was to me. If all I gave a fuck about was my watch, I should've told you. You ain't a mind reader.",-0.6394
+Pulp Fiction,BUTCH,Don't be. It just means I won't be able to eat breakfast with you.,Don't be. It just means I won't be able to eat breakfast with you.,0.0
+Pulp Fiction,BUTCH,Because I'm going back to my apartment to get my watch.,Because I'm going back to my apartment to get my watch.,0.0
+Pulp Fiction,BUTCH,"That's what I'm gonna find out. If they are, and I don't think I can handle it, I'll split.","That's what I'm gonna find out. If they are, and I don't think I can handle it, I'll split.",0.0
+Pulp Fiction,BUTCH,"Don't feel bad, sugar pop. Nothing you could ever do would make me permanently angry at you.","Don't feel bad, sugar pop. Nothing you could ever do would make me permanently angry at you.",-0.1154
+Pulp Fiction,BUTCH,"I'll be back before you can say, blueberry pie.","I'll be back before you can say, blueberry pie.",0.0
+Pulp Fiction,BUTCH,"Well maybe not that fast, but fast. Okay?  Okay?","Well maybe not that fast, but fast. Okay? Okay?",0.6818
+Pulp Fiction,BUTCH,"Bye-bye, sugar pop.","Bye-bye, sugar pop.",0.0
+Pulp Fiction,BUTCH,I'm gonna take your Honda.,I'm gonna take your Honda.,0.0
+Pulp Fiction,BUTCH,"Of all the fuckin' things she coulda forgot, she forgets my father's watch. I specifically reminded her not to forget it. ""Bedside table � on the kangaroo."" I said the words: ""Don't forget my father's watch.""","Of all the fuckin' things she coulda forgot, she forgets my father's watch. I specifically reminded her not to forget it. ""Bedside table � on the kangaroo."" I said the words: ""Don't forget my father's watch.""",0.3252
+Pulp Fiction,BUTCH,"That's how you're gonna beat 'em, Butch.  They keep underestimatin' ya.","That's how you're gonna beat 'em, Butch. They keep underestimatin' ya.",0.0
+Pulp Fiction,BUTCH,I guess.,I guess.,0.0
+Pulp Fiction,BUTCH,Sacre bleu.,Sacre bleu.,0.0
+Pulp Fiction,BUTCH,Shut up!,Shut up!,0.0
+Pulp Fiction,BUTCH,"So you like chasing people, huh?","So you like chasing people, huh?",0.4173
+Pulp Fiction,BUTCH,"Well guess what, big man, you caught me �","Well guess what, big man, you caught me �",0.2732
+Pulp Fiction,BUTCH,"Look mister, this ain't any of your business �","Look mister, this ain't any of your business �",0.0
+Pulp Fiction,BUTCH,Hey hillbilly.,Hey hillbilly.,0.0
+Pulp Fiction,BUTCH,"You want that gun, Zed? Pick it up.","You want that gun, Zed? Pick it up.",-0.2732
+Pulp Fiction,BUTCH,You okay?,You okay?,0.2263
+Pulp Fiction,BUTCH,What now?,What now?,0.0
+Pulp Fiction,BUTCH,"I meant what now, between me and you?","I meant what now, between me and you?",0.0
+Pulp Fiction,BUTCH,So we're cool?,So we're cool?,0.3774
+Pulp Fiction,BUTCH,Deal.,Deal.,0.0
+Pulp Fiction,BUTCH,"Honey, grab your radio and your purse and let's go!","Honey, grab your radio and your purse and let's go!",0.0
+Pulp Fiction,BUTCH,Fuck the bags. We'll miss our train if we don't split now.,Fuck the bags. We'll miss our train if we don't split now.,-0.6249
+Pulp Fiction,BUTCH,"We're cool. In fact, we're super- cool. But we gots to go. I'll wait for you outside.","We're cool. In fact, we're super- cool. But we gots to go. I'll wait for you outside.",0.5789
+Pulp Fiction,BUTCH,"Sorry baby, I crashed the Honda.","Sorry baby, I crashed the Honda.",-0.0772
+Pulp Fiction,BUTCH,"I might've broke my nose, no biggie. Hop on.","I might've broke my nose, no biggie. Hop on.",-0.6124
+Pulp Fiction,BUTCH,"Honey, we gotta hit the fuckin' road!","Honey, we gotta hit the fuckin' road!",0.0
+Pulp Fiction,BUTCH,"I'm sorry, baby-love.","I'm sorry, baby-love.",-0.0772
+Pulp Fiction,BUTCH,"I'm sorry I worried you, sweetie. Everything's fine. Hey, how was breakfast?","I'm sorry I worried you, sweetie. Everything's fine. Hey, how was breakfast?",0.3612
+Pulp Fiction,BUTCH,� did you get the blueberry pancakes?,� did you get the blueberry pancakes?,0.0
+Pulp Fiction,BUTCH,"Baby-love, from the moment I left you, this has been without a doubt the single weirdest day of my entire life. Climb on an' I'll tell ya about it.","Baby-love, from the moment I left you, this has been without a doubt the single weirdest day of my entire life. Climb on an' I'll tell ya about it.",0.0541
+Pulp Fiction,BUTCH,It's a chopper.,It's a chopper.,0.0
+Pulp Fiction,BUTCH,Zed's.,Zed's.,0.0
+Pulp Fiction,BUTCH,"Zed's dead, baby, Zed's dead.","Zed's dead, baby, Zed's dead.",-0.8625
+Pulp Fiction,JULES,"You ever read the Bible, Brett?","You ever read the Bible, Brett?",0.0
+Pulp Fiction,JULES,"There's a passage I got memorized, seems appropriate for this situation: Ezekiel 25:17. ""The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men...""","There's a passage I got memorized, seems appropriate for this situation: Ezekiel 25:17. ""The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men...""",-0.8176
+Pulp Fiction,JULES,"""...blessed is he who, in the name of charity and good will, shepherded the weak through the valley of darkness. And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers. And you will know I am the Lord when I lay my vengeance upon you.""","""...blessed is he who, in the name of charity and good will, shepherded the weak through the valley of darkness. And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers. And you will know I am the Lord when I lay my vengeance upon you.""",-0.7269
+Pulp Fiction,VINCENT,Friend of yours?,Friend of yours?,0.4939
+Pulp Fiction,JULES,"Yeah, Marvin-Vincent-Vincent-Marvin.","Yeah, Marvin-Vincent-Vincent-Marvin.",0.296
+Pulp Fiction,VINCENT,Why the fuck didn't you tell us about that guy in the bathroom? Slip your mind?  Forget he was in there with a goddamn hand cannon?,Why the fuck didn't you tell us about that guy in the bathroom? Slip your mind? Forget he was in there with a goddamn hand cannon?,-0.7041
+Pulp Fiction,VINCENT,.357.,.357.,0.0
+Pulp Fiction,JULES,We should be fuckin' dead!,We should be fuckin' dead!,-0.7082
+Pulp Fiction,VINCENT,"Yeah, we were lucky.","Yeah, we were lucky.",0.6124
+Pulp Fiction,JULES,That shit wasn't luck. That shit was somethin' else.,That shit wasn't luck. That shit was somethin' else.,-0.4864
+Pulp Fiction,VINCENT,"Yeah, maybe.","Yeah, maybe.",0.296
+Pulp Fiction,JULES,That was... divine intervention. You know what divine intervention is?,That was... divine intervention. You know what divine intervention is?,0.802
+Pulp Fiction,VINCENT,"Yeah, I think so. That means God came down from Heaven and stopped the bullets.","Yeah, I think so. That means God came down from Heaven and stopped the bullets.",0.6908
+Pulp Fiction,JULES,"Yeah, man, that's what is means. That's exactly what it means! God came down from Heaven and stopped the bullets.","Yeah, man, that's what is means. That's exactly what it means! God came down from Heaven and stopped the bullets.",0.7177
+Pulp Fiction,VINCENT,I think we should be going now.,I think we should be going now.,0.0
+Pulp Fiction,JULES,Don't do that! Don't you fuckin' do that!  Don't blow this shit off! What just happened was a fuckin' miracle!,Don't do that! Don't you fuckin' do that! Don't blow this shit off! What just happened was a fuckin' miracle!,-0.3237
+Pulp Fiction,VINCENT,"Chill the fuck out, Jules, this shit happens.","Chill the fuck out, Jules, this shit happens.",-0.8294
+Pulp Fiction,JULES,"Wrong, wrong, this shit doesn't just happen.","Wrong, wrong, this shit doesn't just happen.",-0.8689
+Pulp Fiction,VINCENT,"Do you wanna continue this theological discussion in the car, or at the jailhouse with the cops?","Do you wanna continue this theological discussion in the car, or at the jailhouse with the cops?",0.0
+Pulp Fiction,JULES,"We should be fuckin' dead now, my friend!  We just witnessed a miracle, and I want you to fuckin' acknowledge it!","We should be fuckin' dead now, my friend! We just witnessed a miracle, and I want you to fuckin' acknowledge it!",0.5091
+Pulp Fiction,VINCENT,"Okay man, it was a miracle, can we leave now?","Okay man, it was a miracle, can we leave now?",0.6705
+Pulp Fiction,VINCENT,"...Ever seen that show ""COPS?""  I was watchin' it once and this cop was on it who was talkin' about this time he got into this gun fight with a guy in a hallway. He unloads on this guy and he doesn't hit anything. And these guys were in a hallway. It's a freak, but it happens.","...Ever seen that show ""COPS?"" I was watchin' it once and this cop was on it who was talkin' about this time he got into this gun fight with a guy in a hallway. He unloads on this guy and he doesn't hit anything. And these guys were in a hallway. It's a freak, but it happens.",-0.561
+Pulp Fiction,JULES,"If you wanna play blind man, then go walk with a Shepherd. But me, my eyes are wide fuckin' open.","If you wanna play blind man, then go walk with a Shepherd. But me, my eyes are wide fuckin' open.",-0.0387
+Pulp Fiction,VINCENT,What the fuck does that mean?,What the fuck does that mean?,-0.5423
+Pulp Fiction,JULES,"That's it for me. For here on in, you can consider my ass retired.","That's it for me. For here on in, you can consider my ass retired.",-0.5423
+Pulp Fiction,VINCENT,Jesus Christ!,Jesus Christ!,0.0
+Pulp Fiction,JULES,Don't blaspheme!,Don't blaspheme!,0.0
+Pulp Fiction,VINCENT,"Goddammit, Jules �","Goddammit, Jules �",0.0
+Pulp Fiction,JULES,� I said don't do that �,� I said don't do that �,0.0
+Pulp Fiction,VINCENT,� you're fuckin' freakin' out!,� you're fuckin' freakin' out!,0.0
+Pulp Fiction,JULES,I'm tellin' Marsellus today I'm through.,I'm tellin' Marsellus today I'm through.,0.0
+Pulp Fiction,VINCENT,"While you're at it, be sure to tell 'im why.","While you're at it, be sure to tell 'im why.",0.3182
+Pulp Fiction,JULES,"Don't worry, I will.","Don't worry, I will.",0.3412
+Pulp Fiction,VINCENT,"I'll bet ya ten thousand dollars, he laughs his ass off.","I'll bet ya ten thousand dollars, he laughs his ass off.",-0.0772
+Pulp Fiction,JULES,I don't give a damn if he does.,I don't give a damn if he does.,0.3089
+Pulp Fiction,VINCENT,"Marvin, what do you make of all this?","Marvin, what do you make of all this?",0.0
+Pulp Fiction,VINCENT,"C'mon, Marvin. Do you think God came down from Heaven and stopped the bullets?","C'mon, Marvin. Do you think God came down from Heaven and stopped the bullets?",0.5423
+Pulp Fiction,JULES,What the fuck's happening?,What the fuck's happening?,0.0
+Pulp Fiction,VINCENT,I just accidentally shot Marvin in the throat.,I just accidentally shot Marvin in the throat.,-0.34
+Pulp Fiction,JULES,Why the fuck did you do that?,Why the fuck did you do that?,-0.5423
+Pulp Fiction,VINCENT,I didn't mean to do it. I said it was an accident.,I didn't mean to do it. I said it was an accident.,-0.4767
+Pulp Fiction,JULES,I've seen a lot of crazy-ass shit in my time �,I've seen a lot of crazy-ass shit in my time �,-0.5574
+Pulp Fiction,VINCENT,"� chill out, man, it was an accident, okay? You hit a bump or somethin' and the gun went off.","� chill out, man, it was an accident, okay? You hit a bump or somethin' and the gun went off.",-0.5574
+Pulp Fiction,JULES,The car didn't hit no motherfuckin' bump!,The car didn't hit no motherfuckin' bump!,0.2914
+Pulp Fiction,VINCENT,"Look! I didn't mean to shoot this son-ofa-bitch, the gun just went off, don't ask me how!","Look! I didn't mean to shoot this son-ofa-bitch, the gun just went off, don't ask me how!",-0.2378
+Pulp Fiction,JULES,Look at this mess! We're drivin' around on a city street in broad daylight �,Look at this mess! We're drivin' around on a city street in broad daylight �,-0.4883
+Pulp Fiction,VINCENT,"� I know, I know, I wasn't thinkin' about the splatter.","� I know, I know, I wasn't thinkin' about the splatter.",0.0
+Pulp Fiction,JULES,"Well you better be thinkin' about it now, motherfucker! We gotta get this car off the road. Cops tend to notice shit like you're driving a car drenched in fuckin' blood.","Well you better be thinkin' about it now, motherfucker! We gotta get this car off the road. Cops tend to notice shit like you're driving a car drenched in fuckin' blood.",-0.4574
+Pulp Fiction,VINCENT,Can't we just take it to a friendly place?,Can't we just take it to a friendly place?,0.4939
+Pulp Fiction,JULES,"This is the Valley, Vincent. Marsellus don't got no friendly places in the Valley.","This is the Valley, Vincent. Marsellus don't got no friendly places in the Valley.",0.297
+Pulp Fiction,VINCENT,"Well, don't look at me, this is your town, Jules.","Well, don't look at me, this is your town, Jules.",0.2732
+Pulp Fiction,VINCENT,Who ya callin'?,Who ya callin'?,0.0
+Pulp Fiction,JULES,A buddy of mine in Toluca Lake.,A buddy of mine in Toluca Lake.,0.0
+Pulp Fiction,VINCENT,Where's Toluca Lake.,Where's Toluca Lake.,0.0
+Pulp Fiction,JULES,"On the other side of the hill, by Burbank Studios. If Jimmie's ass ain't home, I don't know what the fuck we're gonna go. I ain't got any other partners in 818.","On the other side of the hill, by Burbank Studios. If Jimmie's ass ain't home, I don't know what the fuck we're gonna go. I ain't got any other partners in 818.",-0.7906
+Pulp Fiction,JULES,We gotta be real fuckin' delicate with this Jimmie's situation. He's one remark away from kickin' our asses out the door.,We gotta be real fuckin' delicate with this Jimmie's situation. He's one remark away from kickin' our asses out the door.,0.1263
+Pulp Fiction,VINCENT,"If he kicks us out, whadda we do?","If he kicks us out, whadda we do?",0.0
+Pulp Fiction,JULES,"Well, we ain't leavin' 'til we made a couple phone calls. But I never want it to reach that pitch. Jimmie's my friend and you don't bust in your friend's house and start tellin' 'im what's what.","Well, we ain't leavin' 'til we made a couple phone calls. But I never want it to reach that pitch. Jimmie's my friend and you don't bust in your friend's house and start tellin' 'im what's what.",0.6875
+Pulp Fiction,VINCENT,Just tell 'im not to be abusive. He kinda freaked out back there when he saw Marvin.,Just tell 'im not to be abusive. He kinda freaked out back there when he saw Marvin.,0.353
+Pulp Fiction,JULES,"Put yourself in his position. It's eight o'clock in the morning. He just woke up, he wasn't prepared for this shit. Don't forget who's doin' who a favor.","Put yourself in his position. It's eight o'clock in the morning. He just woke up, he wasn't prepared for this shit. Don't forget who's doin' who a favor.",-0.2263
+Pulp Fiction,VINCENT,"If the price of that favor is I gotta take shit, he can stick his favor straight up his ass.","If the price of that favor is I gotta take shit, he can stick his favor straight up his ass.",-0.2023
+Pulp Fiction,JULES,What the fuck did you just do to his towel?,What the fuck did you just do to his towel?,-0.5423
+Pulp Fiction,VINCENT,I was just dryin' my hands.,I was just dryin' my hands.,0.0
+Pulp Fiction,JULES,You're supposed to wash 'em first.,You're supposed to wash 'em first.,0.0
+Pulp Fiction,VINCENT,You watched me wash 'em.,You watched me wash 'em.,0.0
+Pulp Fiction,JULES,I watched you get 'em wet.,I watched you get 'em wet.,0.0
+Pulp Fiction,VINCENT,"I washed 'em. Blood's real hard to get off. Maybe if he had some Lava, I coulda done a better job.","I washed 'em. Blood's real hard to get off. Maybe if he had some Lava, I coulda done a better job.",0.3612
+Pulp Fiction,JULES,"I used the same soap you did and when I dried my hands, the towel didn't look like a fuckin' Maxie pad. Look, fuck it, alright. Who cares? But it's shit like this that's gonna bring this situation to a boil. If he were to come in here and see that towel like that... I'm tellin' you Vincent, you best be cool. 'Cause if I gotta get in to it with Jimmie on account of you... Look, I ain't threatenin' you, I respect you an' all, just don't put me in that position.","I used the same soap you did and when I dried my hands, the towel didn't look like a fuckin' Maxie pad. Look, fuck it, alright. Who cares? But it's shit like this that's gonna bring this situation to a boil. If he were to come in here and see that towel like that... I'm tellin' you Vincent, you best be cool. 'Cause if I gotta get in to it with Jimmie on account of you... Look, I ain't threatenin' you, I respect you an' all, just don't put me in that position.",0.9348
+Pulp Fiction,JULES,"Jules, you ask me nice like that, no problem. He's your friend, you handle him.","Jules, you ask me nice like that, no problem. He's your friend, you handle him.",0.8676
+Pulp Fiction,JULES,"Goddamn Jimmie, this is some serious gourmet shit. Me an' Vincent woulda been satisfied with freeze-dried Tasters Choice. You spring this gourmet fuckin' shit on us. What flavor is this?","Goddamn Jimmie, this is some serious gourmet shit. Me an' Vincent woulda been satisfied with freeze-dried Tasters Choice. You spring this gourmet fuckin' shit on us. What flavor is this?",-0.8439
+Pulp Fiction,JULES,What?,What?,0.0
+Pulp Fiction,JULES,Jimmie �,Jimmie �,0.0
+Pulp Fiction,JULES,Why?,Why?,0.0
+Pulp Fiction,JULES,Jimmie �,Jimmie �,0.0
+Pulp Fiction,JULES,That's all we want. We don't wanna fuck up your shit. We just need to call our people to bring us in.,That's all we want. We don't wanna fuck up your shit. We just need to call our people to bring us in.,-0.1154
+Pulp Fiction,JULES,"You got to appreciate what an explosive element this Bonnie situation is. If she comes home from a hard day's work and finds a bunch of gangsters doin' a bunch of gangsta' shit in her kitchen, ain't no tellin' what she's apt to do.","You got to appreciate what an explosive element this Bonnie situation is. If she comes home from a hard day's work and finds a bunch of gangsters doin' a bunch of gangsta' shit in her kitchen, ain't no tellin' what she's apt to do.",-0.1058
+Pulp Fiction,JULES,"I don't wanna hear about no motherfuckin' ""ifs.""What I wanna hear from your ass is: ""you ain't got no problems, Jules. I'm on the motherfucker. Go back in there, chill them niggers out and wait for the cavalry, which should be comin' directly.""","I don't wanna hear about no motherfuckin' ""ifs.""What I wanna hear from your ass is: ""you ain't got no problems, Jules. I'm on the motherfucker. Go back in there, chill them niggers out and wait for the cavalry, which should be comin' directly.""",-0.9048
+Pulp Fiction,JULES,You sendin' The Wolf?,You sendin' The Wolf?,0.0
+Pulp Fiction,JULES,"Shit Negro, that's all you had to say.","Shit Negro, that's all you had to say.",-0.5574
+Pulp Fiction,JULES,"Aside from how it looks, the car's cool.","Aside from how it looks, the car's cool.",0.3182
+Pulp Fiction,JULES,"Hey man, as far as I know, the motherfucker's tip-top.","Hey man, as far as I know, the motherfucker's tip-top.",0.0
+Pulp Fiction,VINCENT,"I said a ""please"" would be nice.","I said a ""please"" would be nice.",0.6249
+Pulp Fiction,JULES,"It ain't that way, Mr. Wolf. Your help is definitely appreciated.","It ain't that way, Mr. Wolf. Your help is definitely appreciated.",0.8271
+Pulp Fiction,VINCENT,I don't mean any disrespect. I just don't like people barkin' orders at me.,I don't mean any disrespect. I just don't like people barkin' orders at me.,0.0572
+Pulp Fiction,JULES,I will never forgive your ass for this shit. This is some fucked-up repugnant shit!,I will never forgive your ass for this shit. This is some fucked-up repugnant shit!,-0.7548
+Pulp Fiction,VINCENT,"Did you ever hear the philosophy that once a man admits he's wrong, he's immediately forgiven for all wrong-doings?","Did you ever hear the philosophy that once a man admits he's wrong, he's immediately forgiven for all wrong-doings?",0.1779
+Pulp Fiction,JULES,"Man, get outta my face with that shit! The motherfucker who said that never had to pick up itty-bitty pieces of skull with his fingers on account of your dumb ass.","Man, get outta my face with that shit! The motherfucker who said that never had to pick up itty-bitty pieces of skull with his fingers on account of your dumb ass.",-0.9459
+Pulp Fiction,VINCENT,"I got a threshold, Jules. I got a threshold for the abuse I'll take. And you're crossin' it. I'm a race car and you got me in the red. Redline 7000, that's where you are. Just know, it's fuckin' dangerous to be drivin' a race car when it's in the red. It could blow.","I got a threshold, Jules. I got a threshold for the abuse I'll take. And you're crossin' it. I'm a race car and you got me in the red. Redline 7000, that's where you are. Just know, it's fuckin' dangerous to be drivin' a race car when it's in the red. It could blow.",-0.8221
+Pulp Fiction,JULES,"You're gettin' ready to blow? I'm a mushroom-cloud-layin' motherfucker! Every time my fingers touch brain I'm ""SUPERFLY T.N.T,"" I'm the ""GUNS OF NAVARONE."" I'm what Jimmie Walker usta talk about. In fact, what the fuck am I doin' in the back?  You're the motherfucker should be on brain detail. We're tradin'. I'm washin' windows and you're pickin' up this nigger's skull.","You're gettin' ready to blow? I'm a mushroom-cloud-layin' motherfucker! Every time my fingers touch brain I'm ""SUPERFLY T.N.T,"" I'm the ""GUNS OF NAVARONE."" I'm what Jimmie Walker usta talk about. In fact, what the fuck am I doin' in the back? You're the motherfucker should be on brain detail. We're tradin'. I'm washin' windows and you're pickin' up this nigger's skull.",-0.9161
+Pulp Fiction,VINCENT,All the way?,All the way?,0.0
+Pulp Fiction,JULES,This morning air is some chilly shit.,This morning air is some chilly shit.,-0.5574
+Pulp Fiction,VINCENT,Are you sure this is absolutely necessary?,Are you sure this is absolutely necessary?,0.3182
+Pulp Fiction,VINCENT,What?,What?,0.0
+Pulp Fiction,JULES,"Now Jimmie, don't do nothin' stupid like puttin' that out in front of your house for Elmo the garbage man to take away.","Now Jimmie, don't do nothin' stupid like puttin' that out in front of your house for Elmo the garbage man to take away.",0.6458
+Pulp Fiction,JULES,"Goddamn, that water's fuckin' cold!","Goddamn, that water's fuckin' cold!",-0.5255
+Pulp Fiction,JULES,"Ha ha ha. They're your clothes, motherfucker.","Ha ha ha. They're your clothes, motherfucker.",-0.2023
+Pulp Fiction,JULES,"Yeah, well, our asses ain't the expert on wearin' dorky shit that your is.","Yeah, well, our asses ain't the expert on wearin' dorky shit that your is.",-0.34
+Pulp Fiction,JULES,Don't do shit unless �,Don't do shit unless �,0.4449
+Pulp Fiction,JULES,Unless you do it first.,Unless you do it first.,0.0
+Pulp Fiction,VINCENT,"I'm cool, Mr. Wolf. My gun just went off, I dunno how.","I'm cool, Mr. Wolf. My gun just went off, I dunno how.",-0.0258
+Pulp Fiction,JULES,We cool?,We cool?,0.3182
+Pulp Fiction,VINCENT,Redondo Beach.,Redondo Beach.,0.0
+Pulp Fiction,JULES,Inglewood.,Inglewood.,0.0
+Pulp Fiction,JULES,Mr. Wolf.,Mr. Wolf.,0.0
+Pulp Fiction,JULES,I was a pleasure watchin' you work.,I was a pleasure watchin' you work.,0.5719
+Pulp Fiction,JULES,Wanna share a cab?,Wanna share a cab?,0.296
+Pulp Fiction,VINCENT,You know I could go for some breakfast.  Want to have breakfast with me?,You know I could go for some breakfast. Want to have breakfast with me?,0.0772
+Pulp Fiction,JULES,Sure.,Sure.,0.3182
+Pulp Fiction,VINCENT,Thanks a bunch.,Thanks a bunch.,0.4404
+Pulp Fiction,JULES,"Naw, I don't eat pork.","Naw, I don't eat pork.",0.0
+Pulp Fiction,VINCENT,Are you Jewish?,Are you Jewish?,0.0
+Pulp Fiction,JULES,"I ain't Jewish man, I just don't dig on swine.","I ain't Jewish man, I just don't dig on swine.",0.0
+Pulp Fiction,VINCENT,Why not?,Why not?,0.0
+Pulp Fiction,JULES,They're filthy animals. I don't eat filthy animals.,They're filthy animals. I don't eat filthy animals.,0.0
+Pulp Fiction,VINCENT,Sausages taste good. Pork chops taste good.,Sausages taste good. Pork chops taste good.,0.7003
+Pulp Fiction,JULES,"A sewer rat may taste like pumpkin pie.  I'll never know 'cause even if it did, I wouldn't eat the filthy motherfucker. Pigs sleep and root in shit. That's a filthy animal. I don't wanna eat nothin' that ain't got enough sense to disregard its own feces.","A sewer rat may taste like pumpkin pie. I'll never know 'cause even if it did, I wouldn't eat the filthy motherfucker. Pigs sleep and root in shit. That's a filthy animal. I don't wanna eat nothin' that ain't got enough sense to disregard its own feces.",-0.8316
+Pulp Fiction,VINCENT,How about dogs? Dogs eat their own feces.,How about dogs? Dogs eat their own feces.,0.0
+Pulp Fiction,JULES,I don't eat dog either.,I don't eat dog either.,0.0
+Pulp Fiction,VINCENT,"Yes, but do you consider a dog to be a filthy animal?","Yes, but do you consider a dog to be a filthy animal?",0.2144
+Pulp Fiction,JULES,"I wouldn't go so far as to call a dog filthy, but they're definitely dirty. But a dog's got personality. And personality goes a long way.","I wouldn't go so far as to call a dog filthy, but they're definitely dirty. But a dog's got personality. And personality goes a long way.",-0.0772
+Pulp Fiction,VINCENT,"So by that rationale, if a pig had a better personality, he's cease to be a filthy animal?","So by that rationale, if a pig had a better personality, he's cease to be a filthy animal?",0.4404
+Pulp Fiction,JULES,We'd have to be talkin' 'bout one motherfuckin' charmin' pig. It'd have to be the Cary Grant of pigs.,We'd have to be talkin' 'bout one motherfuckin' charmin' pig. It'd have to be the Cary Grant of pigs.,0.3612
+Pulp Fiction,VINCENT,Good for you. Lighten up a little. You been sittin' there all quiet.,Good for you. Lighten up a little. You been sittin' there all quiet.,0.4404
+Pulp Fiction,JULES,I just been sittin' here thinkin'.,I just been sittin' here thinkin'.,0.0
+Pulp Fiction,JULES,The miracle we witnessed.,The miracle we witnessed.,0.5859
+Pulp Fiction,VINCENT,The miracle you witnessed. I witnessed a freak occurrence.,The miracle you witnessed. I witnessed a freak occurrence.,0.2263
+Pulp Fiction,JULES,Do you know that a miracle is?,Do you know that a miracle is?,0.5859
+Pulp Fiction,VINCENT,An act of God.,An act of God.,0.2732
+Pulp Fiction,JULES,What's an act of God?,What's an act of God?,0.2732
+Pulp Fiction,VINCENT,"I guess it's when God makes the impossible possible. And I'm sorry Jules, but I don't think what happened this morning qualifies.","I guess it's when God makes the impossible possible. And I'm sorry Jules, but I don't think what happened this morning qualifies.",0.1027
+Pulp Fiction,JULES,"Don't you see, Vince, that shit don't matter. You're judging this thing the wrong way. It's not about what. It could be God stopped the bullets, he changed Coke into Pepsi, he found my fuckin' car keys. You don't judge shit like this based on merit. Whether or not what we experienced was an according-to-Hoyle miracle is insignificant. What is significant is I felt God's touch, God got involved.","Don't you see, Vince, that shit don't matter. You're judging this thing the wrong way. It's not about what. It could be God stopped the bullets, he changed Coke into Pepsi, he found my fuckin' car keys. You don't judge shit like this based on merit. Whether or not what we experienced was an according-to-Hoyle miracle is insignificant. What is significant is I felt God's touch, God got involved.",0.327
+Pulp Fiction,VINCENT,But why?,But why?,0.0
+Pulp Fiction,JULES,That's what's fuckin' wit' me! I don't know why. But I can't go back to sleep.,That's what's fuckin' wit' me! I don't know why. But I can't go back to sleep.,0.0
+Pulp Fiction,VINCENT,"So you're serious, you're really gonna quit?","So you're serious, you're really gonna quit?",-0.1477
+Pulp Fiction,JULES,"The life, most definitely.","The life, most definitely.",0.4576
+Pulp Fiction,VINCENT,"So if you're quitting the life, what'll you do?","So if you're quitting the life, what'll you do?",0.0
+Pulp Fiction,JULES,"That's what I've been sitting here contemplating. First, I'm gonna deliver this case to Marsellus. Then, basically, I'm gonna walk the earth.","That's what I've been sitting here contemplating. First, I'm gonna deliver this case to Marsellus. Then, basically, I'm gonna walk the earth.",0.0
+Pulp Fiction,VINCENT,"What do you mean, walk the earth?","What do you mean, walk the earth?",0.0
+Pulp Fiction,JULES,"You know, like Caine in ""KUNG FU."" Just walk from town to town, meet people, get in adventures.","You know, like Caine in ""KUNG FU."" Just walk from town to town, meet people, get in adventures.",0.5994
+Pulp Fiction,VINCENT,How long do you intend to walk the earth?,How long do you intend to walk the earth?,0.0
+Pulp Fiction,JULES,Until God puts me where he want me to be.,Until God puts me where he want me to be.,0.34
+Pulp Fiction,VINCENT,What if he never does?,What if he never does?,0.0
+Pulp Fiction,JULES,"If it takes forever, I'll wait forever.","If it takes forever, I'll wait forever.",0.0
+Pulp Fiction,VINCENT,So you decided to be a bum?,So you decided to be a bum?,0.0
+Pulp Fiction,JULES,"I'll just be Jules, Vincent � no more, no less.","I'll just be Jules, Vincent � no more, no less.",-0.0049
+Pulp Fiction,VINCENT,"No Jules, you're gonna be like those pieces of shit out there who beg for change. They walk around like a bunch of fuckin' zombies, they sleep in garbage bins, they eat what I throw away, and dogs piss on 'em. They got a word for 'em, they're called bums. And without a job, residence, or legal tender, that's what you're gonna be � a fuckin' bum!","No Jules, you're gonna be like those pieces of shit out there who beg for change. They walk around like a bunch of fuckin' zombies, they sleep in garbage bins, they eat what I throw away, and dogs piss on 'em. They got a word for 'em, they're called bums. And without a job, residence, or legal tender, that's what you're gonna be � a fuckin' bum!",-0.5093
+Pulp Fiction,JULES,"Look my friend, this is just where me and you differ �","Look my friend, this is just where me and you differ �",0.4939
+Pulp Fiction,VINCENT,� what happened was peculiar � no doubt about it � but it wasn't water into wine.,� what happened was peculiar � no doubt about it � but it wasn't water into wine.,0.2156
+Pulp Fiction,JULES,"All shapes and sizes, Vince.","All shapes and sizes, Vince.",0.0
+Pulp Fiction,VINCENT,Stop fuckin' talkin' like that!,Stop fuckin' talkin' like that!,0.2193
+Pulp Fiction,JULES,"If you find my answers frightening, Vincent, you should cease askin' scary questions.","If you find my answers frightening, Vincent, you should cease askin' scary questions.",-0.7506
+Pulp Fiction,VINCENT,I gotta take a shit. To be continued.,I gotta take a shit. To be continued.,-0.5574
+Pulp Fiction,JULES,My boss' dirty laundry.,My boss' dirty laundry.,-0.4404
+Pulp Fiction,JULES,When he wants it clean.,When he wants it clean.,0.4019
+Pulp Fiction,JULES,"Funny, I've been thinkin' the same thing.","Funny, I've been thinkin' the same thing.",0.4404
+Pulp Fiction,JULES,'Fraid I can't do that.,'Fraid I can't do that.,0.0
+Pulp Fiction,JULES,"Yes, you did.","Yes, you did.",0.4019
+Pulp Fiction,JULES,"I don't mean to shatter your ego, but this ain't the first time I've had gun pointed at me.","I don't mean to shatter your ego, but this ain't the first time I've had gun pointed at me.",-0.4767
+Pulp Fiction,JULES,"Keep your fuckin' mouth closed, fat man, this ain't any of your goddamn business!","Keep your fuckin' mouth closed, fat man, this ain't any of your goddamn business!",-0.5255
+Pulp Fiction,JULES,You win.,You win.,0.5859
+Pulp Fiction,JULES,"It's all yours, Ringo.","It's all yours, Ringo.",0.0
+Pulp Fiction,JULES,Promise her.,Promise her.,0.3182
+Pulp Fiction,JULES,Tell her to chill.,Tell her to chill.,0.0
+Pulp Fiction,JULES,What's her name?,What's her name?,0.0
+Pulp Fiction,JULES,Nobody's gonna hurt anybody. We're gonna be like three Fonzies. And what' Fonzie like?,Nobody's gonna hurt anybody. We're gonna be like three Fonzies. And what' Fonzie like?,0.1531
+Pulp Fiction,JULES,"C'mon Yolanda, what's Fonzie like?","C'mon Yolanda, what's Fonzie like?",0.3612
+Pulp Fiction,JULES,"Correct-amundo! And that's what we're gonna be, we're gonna be cool.","Correct-amundo! And that's what we're gonna be, we're gonna be cool.",0.3802
+Pulp Fiction,JULES,One... two... three.,One... two... three.,0.0
+Pulp Fiction,JULES,"Yolanda, I thought you were gonna be cool.  When you yell at me, it makes me nervous.  When I get nervous, I get scared. And when motherfuckers get scared, that's when motherfuckers get accidentally shot.","Yolanda, I thought you were gonna be cool. When you yell at me, it makes me nervous. When I get nervous, I get scared. And when motherfuckers get scared, that's when motherfuckers get accidentally shot.",-0.8442
+Pulp Fiction,JULES,That seems to be the situation. Now I don't want that and you don't want that and Ringo here don't want that. So let's see what we can do.,That seems to be the situation. Now I don't want that and you don't want that and Ringo here don't want that. So let's see what we can do.,-0.1695
+Pulp Fiction,VINCENT,What the fuck's goin' on here?,What the fuck's goin' on here?,0.0
+Pulp Fiction,JULES,"It's cool, Vincent! It's cool! Don't do a goddamn thing. Yolanda, it's cool baby, nothin's changed. We're still just talkin'.","It's cool, Vincent! It's cool! Don't do a goddamn thing. Yolanda, it's cool baby, nothin's changed. We're still just talkin'.",0.8417
+Pulp Fiction,JULES,Nothin' I can't handle. I want you to just hang back and don't do shit unless it's absolutely necessary.,Nothin' I can't handle. I want you to just hang back and don't do shit unless it's absolutely necessary.,0.4023
+Pulp Fiction,VINCENT,Check.,Check.,0.0
+Pulp Fiction,JULES,"Yolanda, how we doin, baby?","Yolanda, how we doin, baby?",0.0
+Pulp Fiction,JULES,"Just hang in there, baby, you're doing' great, Ringo's proud of you and so am I.  It's almost over.","Just hang in there, baby, you're doing' great, Ringo's proud of you and so am I. It's almost over.",0.802
+Pulp Fiction,JULES,It's the one that says Bad Motherfucker on it.,It's the one that says Bad Motherfucker on it.,-0.8442
+Pulp Fiction,JULES,That's my bad motherfucker. Now open it up and take out the cash. How much is there?,That's my bad motherfucker. Now open it up and take out the cash. How much is there?,-0.8442
+Pulp Fiction,JULES,"Put it in your pocket, it's yours. Now with the rest of them wallets and the register, that makes this a pretty successful little score.","Put it in your pocket, it's yours. Now with the rest of them wallets and the register, that makes this a pretty successful little score.",0.7906
+Pulp Fiction,VINCENT,"Jules, if you give this nimrod fifteen hundred buck, I'm gonna shoot 'em on general principle.","Jules, if you give this nimrod fifteen hundred buck, I'm gonna shoot 'em on general principle.",-0.34
+Pulp Fiction,JULES,"You ain't gonna do a goddamn thing, now hang back and shut the fuck up. Besides, I ain't givin' it to him. I'm buyin' somethin' for my money. Wanna know what I'm buyin' Ringo?","You ain't gonna do a goddamn thing, now hang back and shut the fuck up. Besides, I ain't givin' it to him. I'm buyin' somethin' for my money. Wanna know what I'm buyin' Ringo?",-0.765
+Pulp Fiction,JULES,Your life. I'm givin' you that money so I don't hafta kill your ass. You read the Bible?,Your life. I'm givin' you that money so I don't hafta kill your ass. You read the Bible?,0.0613
+Pulp Fiction,JULES,"There's a passage I got memorized. Ezekiel 25:17. ""The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men.  Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of the darkness. For he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers. And you will know I am the Lord when I lay my vengeance upon you."" I been sayin' that shit for years.  And if you ever heard it, it meant your ass. I never really questioned what it meant. I thought it was just a coldblooded thing to say to a motherfucker 'fore you popped a cap in his ass. But I saw some shit this mornin' made me think twice. Now I'm thinkin', it could mean you're the evil man. And I'm the righteous man.  And Mr. .45 here, he's the shepherd protecting my righteous ass in the valley of darkness. Or is could by you're the righteous man and I'm the shepherd and it's the world that's evil and selfish.  I'd like that. But that shit ain't the truth. The truth is you're the weak. And I'm the tyranny of evil men. But I'm tryin'. I'm tryin' real hard to be a shepherd.","There's a passage I got memorized. Ezekiel 25:17. ""The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of the darkness. For he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers. And you will know I am the Lord when I lay my vengeance upon you."" I been sayin' that shit for years. And if you ever heard it, it meant your ass. I never really questioned what it meant. I thought it was just a coldblooded thing to say to a motherfucker 'fore you popped a cap in his ass. But I saw some shit this mornin' made me think twice. Now I'm thinkin', it could mean you're the evil man. And I'm the righteous man. And Mr. .45 here, he's the shepherd protecting my righteous ass in the valley of darkness. Or is could by you're the righteous man and I'm the shepherd and it's the world that's evil and selfish. I'd like that. But that shit ain't the truth. The truth is you're the weak. And I'm the tyranny of evil men. But I'm tryin'. I'm tryin' real hard to be a shepherd.",-0.9958
+Pulp Fiction,VINCENT,I think we oughta leave now.,I think we oughta leave now.,-0.0516
+Pulp Fiction,JULES,That's probably a good idea.,That's probably a good idea.,0.4404
+Goodfellas,TOMMY,Don't go busting my balls. Okay?,Don't go busting my balls. Okay?,0.2263
+Goodfellas,TOMMY,I don't give a shit. That guy's got no right.,I don't give a shit. That guy's got no right.,0.1838
+Goodfellas,HENRY,Tommy. He. doesn't mean anything. Forget about it.,Tommy. He. doesn't mean anything. Forget about it.,0.1695
+Goodfellas,HENRY,Tommy.  Come on. Relax.,Tommy. Come on. Relax.,0.4404
+Goodfellas,JIMMY,A guy gets half a load on.  He mouths off.,A guy gets half a load on. He mouths off.,0.0
+Goodfellas,HENRY,What are we going to do with him? We can't dump him in the street.,What are we going to do with him? We can't dump him in the street.,0.2924
+Goodfellas,TOMMY,I didn't want to get blood on your floor.,I didn't want to get blood on your floor.,-0.0572
+Goodfellas,HENRY,Batts's made. His whole crew is going to be looking for him. This is fucking bad.,Batts's made. His whole crew is going to be looking for him. This is fucking bad.,-0.5849
+Goodfellas,TOMMY,There's a shovel at my mother's.,There's a shovel at my mother's.,0.0
+Goodfellas,TOMMY,SSHHH. You'll wake 'er up.,SSHHH. You'll wake 'er up.,0.0
+Goodfellas,TOMMY,Jesus Christ! Miserable bastard!,Jesus Christ! Miserable bastard!,-0.8065
+Goodfellas,TOMMY,Rat bastard.,Rat bastard.,-0.5423
+Goodfellas,HENRY,"As far back as I can remember, I always wanted to be a gangster.","As far back as I can remember, I always wanted to be a gangster.",0.0
+Goodfellas,HENRY,"To me, being a gangster was better than being President of the United States.","To me, being a gangster was better than being President of the United States.",0.6908
+Goodfellas,HENRY,"Even before I first wandered into the cabstand for an after-school job, I knew I wanted to be a part of them. It was there I belonged.","Even before I first wandered into the cabstand for an after-school job, I knew I wanted to be a part of them. It was there I belonged.",0.0
+Goodfellas,HENRY,To me it meant being somebody in a neighborhood full of nobodies.,To me it meant being somebody in a neighborhood full of nobodies.,0.0
+Goodfellas,HENRY,"They weren't like anyone else. They did whatever they wanted. They'd double-park in front of the hydrant and nobody ever gave them a ticket.  In the summer when they played cards all night, nobody ever called the cops.","They weren't like anyone else. They did whatever they wanted. They'd double-park in front of the hydrant and nobody ever gave them a ticket. In the summer when they played cards all night, nobody ever called the cops.",0.0747
+Goodfellas,HENRY,"Tuddy Vario ran the cabstand and a pizzeria and a few other places for his brother, Paul, who was the boss over everybody in the neighborhood.","Tuddy Vario ran the cabstand and a pizzeria and a few other places for his brother, Paul, who was the boss over everybody in the neighborhood.",0.0
+Goodfellas,HENRY,"Paulie might have moved slow, but it was only because he didn't have to move for anybody.","Paulie might have moved slow, but it was only because he didn't have to move for anybody.",0.0
+Goodfellas,HENRY,"At first, my parents loved that I found a job across the street. My father, who was Irish, was sent to work at the age of eleven, and he liked that I got myself a job. He always said American kids were spoiled lazy.","At first, my parents loved that I found a job across the street. My father, who was Irish, was sent to work at the age of eleven, and he liked that I got myself a job. He always said American kids were spoiled lazy.",0.6369
+Goodfellas,HENRY,"And my mother was happy after she found out that the Varios came from the same part of Sicily as she did. To my mother, it was the answer to her prayers.","And my mother was happy after she found out that the Varios came from the same part of Sicily as she did. To my mother, it was the answer to her prayers.",0.5719
+Goodfellas,HENRY,I was the luckiest kid in the world.,I was the luckiest kid in the world.,0.5994
+Goodfellas,HENRY,I could go anywhere.,I could go anywhere.,0.0
+Goodfellas,HENRY,I could do anything.,I could do anything.,0.0
+Goodfellas,HENRY,I knew everybody and everybody knew me.,I knew everybody and everybody knew me.,0.0
+Goodfellas,HENRY,"But it wasn't too long before my parents changed their minds. For them, the cabstand was supposed to be a part-tie job, but  for me, it was full-time.","But it wasn't too long before my parents changed their minds. For them, the cabstand was supposed to be a part-tie job, but for me, it was full-time.",0.0
+Goodfellas,HENRY,"People like my father could never understand, but I was a part of something. I belonged.  I was treated like a grown-up. Every day I was learning to score.","People like my father could never understand, but I was a part of something. I belonged. I was treated like a grown-up. Every day I was learning to score.",0.6124
+Goodfellas,HENRY,"My father was always pissed off. He was pissed that he had to work so hard. He was pissed that he made such lousy money. Be was pissed that there were seven of us living in a tiny house. But after a while, he was mostly pissed that I hung around the cabstand. He said they were bums and that I was a bum. He said I was going to get into trouble.  I used to say I was only running errands after school, but he knew better.  He knew what went on at the cabstand and, every once in a while, usually after he got his load on, I had to take a beating. But by then, I didn't care. No matter how many beatings I took, I wouldn't listen to what he said.  I don't think I even heard him. The way I saw it, everybody has to take a beating some time.","My father was always pissed off. He was pissed that he had to work so hard. He was pissed that he made such lousy money. Be was pissed that there were seven of us living in a tiny house. But after a while, he was mostly pissed that I hung around the cabstand. He said they were bums and that I was a bum. He said I was going to get into trouble. I used to say I was only running errands after school, but he knew better. He knew what went on at the cabstand and, every once in a while, usually after he got his load on, I had to take a beating. But by then, I didn't care. No matter how many beatings I took, I wouldn't listen to what he said. I don't think I even heard him. The way I saw it, everybody has to take a beating some time.",-0.9833
+Goodfellas,HENRY,I can't make any more deliveries.,I can't make any more deliveries.,0.0
+Goodfellas,HENRY,My father got a letter from the school. He said the next time he'll kill me.,My father got a letter from the school. He said the next time he'll kill me.,-0.6908
+Goodfellas,HENRY,No.,No.,0.0
+Goodfellas,HENRY,"Hundreds of guys depended on Paulie and he got a piece of everything they made. It was tribute, just like the old country, except they were doing it in America.  All they got from Paulie was protection from other guys looking to rip them off. That's what it's all about. That's what the FBI can never understand -- that what Paulie and the organization does is offer protection for people who can't go to the cops. They're like the police department for wiseguys.","Hundreds of guys depended on Paulie and he got a piece of everything they made. It was tribute, just like the old country, except they were doing it in America. All they got from Paulie was protection from other guys looking to rip them off. That's what it's all about. That's what the FBI can never understand -- that what Paulie and the organization does is offer protection for people who can't go to the cops. They're like the police department for wiseguys.",0.6486
+Goodfellas,HENRY,People locked at me differently. They knew I was with somebody.,People locked at me differently. They knew I was with somebody.,0.0
+Goodfellas,HENRY,"I didn't have to wait on line at the bakery on Sunday morning anymore for fresh bread. The owner knew who I was with, and he'd come from around the counter, no matter how many people were waiting.  I was taken care of first.","I didn't have to wait on line at the bakery on Sunday morning anymore for fresh bread. The owner knew who I was with, and he'd come from around the counter, no matter how many people were waiting. I was taken care of first.",0.6626
+Goodfellas,HENRY,"Our neighbors didn't park in our driveway anymore, even though we didn't have a car. At thirteen, I was making more money than most of the grownups in the neighborhood. I had more money than I could spend. I had it all.","Our neighbors didn't park in our driveway anymore, even though we didn't have a car. At thirteen, I was making more money than most of the grownups in the neighborhood. I had more money than I could spend. I had it all.",0.0
+Goodfellas,HENRY,One day some of the kids from the neighborhood carried my mother's groceries all the way home for her. It was out of respect.,One day some of the kids from the neighborhood carried my mother's groceries all the way home for her. It was out of respect.,0.4767
+Goodfellas,HENRY,It was the first time I had ever seen anyone shot.,It was the first time I had ever seen anyone shot.,0.0
+Goodfellas,HENRY,I remember feeling bad about the guy. But I remember feeling that maybe Tuddy was right.  I knew Paulie didn't want anybody dying in the building.,I remember feeling bad about the guy. But I remember feeling that maybe Tuddy was right. I knew Paulie didn't want anybody dying in the building.,-0.1489
+Goodfellas,HENRY,It was a glorious time. Wiseguys were all over the place. It was before Apalachin and before Crazy Joey decided to take on a boss and start a war. It was when I met the world.  It was when I first met Jimmy Burke.,It was a glorious time. Wiseguys were all over the place. It was before Apalachin and before Crazy Joey decided to take on a boss and start a war. It was when I met the world. It was when I first met Jimmy Burke.,-0.2023
+Goodfellas,HENRY,"He couldn't have been more than twenty-four or twenty-five at the time, but he was already a legend. He'd walk in the door and everybody who worked the room went wild. He'd give the doorman a hundred just for opening the door.  He shoved hundreds in the pockets of the dealers and who ran the games. The bartender got a hundred just for keeping the ice cubes cold.","He couldn't have been more than twenty-four or twenty-five at the time, but he was already a legend. He'd walk in the door and everybody who worked the room went wild. He'd give the doorman a hundred just for opening the door. He shoved hundreds in the pockets of the dealers and who ran the games. The bartender got a hundred just for keeping the ice cubes cold.",0.0
+Goodfellas,HENRY,"Jimmy was one of the most feared gays in the city.  He was first locked up at eleven and was doing hits for mob bosses when he was sixteen. Hits never bothered him. It was business. But what he really loved to do was steal.  I mean, he actually enjoyed it.  Jimmy was the kind of guy who rooted for the bad guys in the movies.  He was one of the city's biggest hijackers. Clothes. Razor blades. Booze. Cigarettes. Shrimp and lobsters. Shrimp and lobsters were the best. They went fast.","Jimmy was one of the most feared gays in the city. He was first locked up at eleven and was doing hits for mob bosses when he was sixteen. Hits never bothered him. It was business. But what he really loved to do was steal. I mean, he actually enjoyed it. Jimmy was the kind of guy who rooted for the bad guys in the movies. He was one of the city's biggest hijackers. Clothes. Razor blades. Booze. Cigarettes. Shrimp and lobsters. Shrimp and lobsters were the best. They went fast.",0.8033
+Goodfellas,HENRY,And almost all of them were gimmie's.,And almost all of them were gimmie's.,0.0
+Goodfellas,HENRY,"They called him Jimmy the Gent. The drivers loved him. They used to tip him off about the really good loads. Of course, everybody got a piece. And when the cops assigned a whole army to stop him,","They called him Jimmy the Gent. The drivers loved him. They used to tip him off about the really good loads. Of course, everybody got a piece. And when the cops assigned a whole army to stop him,",0.7089
+Goodfellas,JIMMY,Tommy. Help the lady.,Tommy. Help the lady.,0.4019
+Goodfellas,HENRY,"By the time I grew up, there was thirty billion a year in cargo moving through Idlewild Airport and we tried to steal every bit of it.","By the time I grew up, there was thirty billion a year in cargo moving through Idlewild Airport and we tried to steal every bit of it.",-0.4939
+Goodfellas,HENRY,"You've got to understand, we grew up near the airport.. It belonged to Paulie. We had friends and relatives who worked all over the place and they tipped as off about what was coming in and what was going out.","You've got to understand, we grew up near the airport.. It belonged to Paulie. We had friends and relatives who worked all over the place and they tipped as off about what was coming in and what was going out.",0.4767
+Goodfellas,HENRY,"If any of the truckers or airlines gave as trouble, Paulie had his people scare then with a little strike. It was beautiful. It was an even bigger money-major than numbers, and Jimmy was in charge. Whenever we needed money, we'd rob the airport. To us, it was better than Citibank.","If any of the truckers or airlines gave as trouble, Paulie had his people scare then with a little strike. It was beautiful. It was an even bigger money-major than numbers, and Jimmy was in charge. Whenever we needed money, we'd rob the airport. To us, it was better than Citibank.",-0.4417
+Goodfellas,HENRY,"There was Jimmy and Tommy and me. And there was Anthony Stabile, Angelo Sepe, Fat Andy, Frankie the Wop, Freddy No Nose, Pete the Killer, Nicky Blanda, Mikey Franzese, and Johnny Echoes, who got that nickname because he said everything twice.  Like*, ""You wanna get the papers, get the papers.""","There was Jimmy and Tommy and me. And there was Anthony Stabile, Angelo Sepe, Fat Andy, Frankie the Wop, Freddy No Nose, Pete the Killer, Nicky Blanda, Mikey Franzese, and Johnny Echoes, who got that nickname because he said everything twice. Like*, ""You wanna get the papers, get the papers.""",-0.6124
+Goodfellas,HENRY,Not till Thursday.,Not till Thursday.,0.0
+Goodfellas,HENRY,"For us to live any other way was nuts. To us, those goody-good people who worked shitty jobs for bum paychecks, who took the subway to work every day and worried about their bills, were dead. They were suckers. They had no balls. If we wanted something, we just took it. If anyone complained twice, they got hit so bad they never complained again. It was routine. You didn't even think about it.","For us to live any other way was nuts. To us, those goody-good people who worked shitty jobs for bum paychecks, who took the subway to work every day and worried about their bills, were dead. They were suckers. They had no balls. If we wanted something, we just took it. If anyone complained twice, they got hit so bad they never complained again. It was routine. You didn't even think about it.",-0.9714
+Goodfellas,HENRY,"Now the guy's got Paulie for a partner. Any problems, he goes to Paulie. Trouble with the bill?  He can go to Paulie. Trouble with the cops? Deliveries? Tommy? He can call Paulie.","Now the guy's got Paulie for a partner. Any problems, he goes to Paulie. Trouble with the bill? He can go to Paulie. Trouble with the cops? Deliveries? Tommy? He can call Paulie.",-0.8426
+Goodfellas,HENRY,"But now the guy has got to come up with Paulie 's money every week, no matter what. Business bad? Fuck you, pay me. You had a fire?  Fuck you, pay ma.  The place got hit by lighting? Fuck you, pay me.  Also, Paulie could do anything. Especially run up bills on the joint's credit. Why not? Nobody's gonna pay for it anyway.","But now the guy has got to come up with Paulie 's money every week, no matter what. Business bad? Fuck you, pay me. You had a fire? Fuck you, pay ma. The place got hit by lighting? Fuck you, pay me. Also, Paulie could do anything. Especially run up bills on the joint's credit. Why not? Nobody's gonna pay for it anyway.",-0.9754
+Goodfellas,HENRY,"As soon as the deliveries are made in the front door, you move the stuff out the back and sell it at a discount. You take a two hundred dollar case of booze and sell it for a hundred. It doesn't matter. It's all profit.","As soon as the deliveries are made in the front door, you move the stuff out the back and sell it at a discount. You take a two hundred dollar case of booze and sell it for a hundred. It doesn't matter. It's all profit.",0.4265
+Goodfellas,HENRY,"And, finally, when there's nothing 1 left, when you can't borrow another buck from the bank or buy another case of booze, you bust the joint out.","And, finally, when there's nothing 1 left, when you can't borrow another buck from the bank or buy another case of booze, you bust the joint out.",0.0
+Goodfellas,HENRY,You light a match.,You light a match.,0.0
+Goodfellas,TOMMY,Is it my fault she won't go out without her girlfriend?  For Chrissake.  Come on.  You don't even have to stay.  Jeesuz!  What's the big deal?,Is it my fault she won't go out without her girlfriend? For Chrissake. Come on. You don't even have to stay. Jeesuz! What's the big deal?,-0.5191
+Goodfellas,HENRY,Tommy  ...,Tommy ...,0.0
+Goodfellas,HENRY,I had a meeting with Tuddy around eleven o'clock and here I am a back-up guy.,I had a meeting with Tuddy around eleven o'clock and here I am a back-up guy.,0.0
+Goodfellas,HENRY,"I couldn't wait to get away. I was ordering the dessert when they were eating dinner. When they were having coffee, I was asking for a check.","I couldn't wait to get away. I was ordering the dessert when they were eating dinner. When they were having coffee, I was asking for a check.",0.0
+Goodfellas,HENRY,Take it easy.  We can talk about it.,Take it easy. We can talk about it.,0.4404
+Goodfellas,HENRY,"She's screaming on the street and I mean loud, but she looked good. She had these violet eyes.  I remember she's screaming, but mostly I'm looking at her eyes. They were just like Elizabeth Taylor's. That's what everybody said.","She's screaming on the street and I mean loud, but she looked good. She had these violet eyes. I remember she's screaming, but mostly I'm looking at her eyes. They were just like Elizabeth Taylor's. That's what everybody said.",0.4404
+Goodfellas,HENRY,I thought you were going to stand me up. You looked bored. You didn't say anything. What did you expect. Tommy was all over me. Right?,I thought you were going to stand me up. You looked bored. You didn't say anything. What did you expect. Tommy was all over me. Right?,-0.2732
+Goodfellas,HENRY,"Come on, let me make it up.","Come on, let me make it up.",0.0
+Goodfellas,HENRY,"Where, over there?","Where, over there?",0.0
+Goodfellas,HENRY,I'm a union delegate.,I'm a union delegate.,0.0
+Goodfellas,HENRY,Air France made me. We walked out with four hundred and twenty thousand dollars without a gun. And we did the right thing.,Air France made me. We walked out with four hundred and twenty thousand dollars without a gun. And we did the right thing.,0.2584
+Goodfellas,HENRY,Jimmy. He'll be okay. He's good for it. Relax.,Jimmy. He'll be okay. He's good for it. Relax.,0.7717
+Goodfellas,HENRY,Go inside. I'll be right there.,Go inside. I'll be right there.,0.0
+Goodfellas,HENRY,Get inside!,Get inside!,0.0
+Goodfellas,HENRY,"Listen, we're beginning to make real money for the first time. It's business. Do you think I'm going to walk away from that?","Listen, we're beginning to make real money for the first time. It's business. Do you think I'm going to walk away from that?",0.0
+Goodfellas,HENRY,I told you I can't.,I told you I can't.,0.0
+Goodfellas,HENRY,How much?,How much?,0.0
+Goodfellas,HENRY,"For most of the guys, killing got to be accepted. They were routine. Murder was the only way everybody stayed in line. It was the ultimate weapon. Yon got out of line, you got whacked. Everyone knew the rules.","For most of the guys, killing got to be accepted. They were routine. Murder was the only way everybody stayed in line. It was the ultimate weapon. Yon got out of line, you got whacked. Everyone knew the rules.",-0.8807
+Goodfellas,HENRY,"But sometimes, even if people didn't get out of line, they'd get whacked. Hits just became a habit for some guys. It didn't take anything to get yourself killed.","But sometimes, even if people didn't get out of line, they'd get whacked. Hits just became a habit for some guys. It didn't take anything to get yourself killed.",-0.8047
+Goodfellas,HENRY,"Guys would get into arguments over nothing and before you knew it, one of them was dead. They were shooting each other all the time. Shooting people was a normal thing. It was no big deal.","Guys would get into arguments over nothing and before you knew it, one of them was dead. They were shooting each other all the time. Shooting people was a normal thing. It was no big deal.",-0.8481
+Goodfellas,HENRY,You didn't have to do anything and nobody was immune. You just had to be there.,You didn't have to do anything and nobody was immune. You just had to be there.,0.296
+Goodfellas,HENRY,But we had a problem with Billy Batts. This was a touchy thing. Tommy had killed a made man. Billy was a part of the Bambino crew and untouchable.,But we had a problem with Billy Batts. This was a touchy thing. Tommy had killed a made man. Billy was a part of the Bambino crew and untouchable.,-0.8957
+Goodfellas,HENRY,"Before you could touch a made guy, you had to have a good reason. There had to be a sit-down. And you better get an okay, or you'd be the one who got whacked.","Before you could touch a made guy, you had to have a good reason. There had to be a sit-down. And you better get an okay, or you'd be the one who got whacked.",0.7717
+Goodfellas,HENRY,"Saturday night was for wives, but Friday night at the Copa was always for the girlfriends.","Saturday night was for wives, but Friday night at the Copa was always for the girlfriends.",0.0
+Goodfellas,TOMMY,What are you talking about?,What are you talking about?,0.0
+Goodfellas,HENRY,What thing? The Brooklyn thing?,What thing? The Brooklyn thing?,0.0
+Goodfellas,HENRY,The guy from near where Christie used to live?,The guy from near where Christie used to live?,0.0
+Goodfellas,HENRY,Oh I Him.,Oh I Him.,0.0
+Goodfellas,HENRY,Oh yeah. Sure. That guy. I know him.,Oh yeah. Sure. That guy. I know him.,0.5423
+Goodfellas,HENRY,Oh yeah. Yeah. I know. I even looked into it myself. Nobody knows what the fuck happened to him. He came in the joint that one night and then he disappeared.,Oh yeah. Yeah. I know. I even looked into it myself. Nobody knows what the fuck happened to him. He came in the joint that one night and then he disappeared.,-0.25
+Goodfellas,JIMMY,"We got a problem, that thing we took care of upstate?","We got a problem, that thing we took care of upstate?",0.128
+Goodfellas,JIMMY,"Well, we gotta dig him up again.","Well, we gotta dig him up again.",0.2732
+Goodfellas,JIMMY,The guy just sold the property. They're gonna build condominiums and I don't want anybody digging up the little bastard.,The guy just sold the property. They're gonna build condominiums and I don't want anybody digging up the little bastard.,-0.5313
+Goodfellas,JIMMY,It's still better than letting somebody find him.,It's still better than letting somebody find him.,0.4404
+Goodfellas,JIMMY,"Fuck Paulie. If Batts' crew finds we whacked him, we got real problems.","Fuck Paulie. If Batts' crew finds we whacked him, we got real problems.",-0.7351
+Goodfellas,HENRY,I set up Linda in an apartment around the corner from the Suite. That way I was able to stay over a couple of nights a week. Karen was home with the kids anyway and she never asked any questions anyway.,I set up Linda in an apartment around the corner from the Suite. That way I was able to stay over a couple of nights a week. Karen was home with the kids anyway and she never asked any questions anyway.,0.0
+Goodfellas,HENRY,"Linda and I were having so much fun, she started screwing up at work, and I had to straighten out her boss a little bit.","Linda and I were having so much fun, she started screwing up at work, and I had to straighten out her boss a little bit.",0.3976
+Goodfellas,TOMMY,"Spider, what did I say? Did I say I was dying over here? Come on. Move it. Don't walk, dance.","Spider, what did I say? Did I say I was dying over here? Come on. Move it. Don't walk, dance.",0.0
+Goodfellas,TOMMY,Yahooo.,Yahooo.,0.0
+Goodfellas,HENRY,"Tommy, don't fuck around. Put the gun away. Tommy!","Tommy, don't fuck around. Put the gun away. Tommy!",0.1882
+Goodfellas,TOMMY,"No, no. It's okay.","No, no. It's okay.",0.2263
+Goodfellas,HENRY,"Tommy, come on. Put the gun away.","Tommy, come on. Put the gun away.",-0.34
+Goodfellas,TOMMY,No. It's okay. Just watch this. Watch it.,No. It's okay. Just watch this. Watch it.,0.2263
+Goodfellas,HENRY,I gotta go out!,I gotta go out!,0.0
+Goodfellas,HENRY,Are you nuts?,Are you nuts?,-0.3182
+Goodfellas,TOMMY,"Hey!  Look at this.  Fred Astaira, back from the wars. Can you believe this guy? That bandage. It's bigger than his foot.","Hey! Look at this. Fred Astaira, back from the wars. Can you believe this guy? That bandage. It's bigger than his foot.",-0.5983
+Goodfellas,TOMMY,"Spider. You're so full of shit. Even with that foot, I bet you can dance.","Spider. You're so full of shit. Even with that foot, I bet you can dance.",-0.5945
+Goodfellas,TOMMY,Come on. Spider.  Come on. Let's see you dance.,Come on. Spider. Come on. Let's see you dance.,0.0
+Goodfellas,JIMMY,"All right, you dumb fuck, if you're going to be a big fuckin' wiseguy, you can dig the hole.","All right, you dumb fuck, if you're going to be a big fuckin' wiseguy, you can dig the hole.",-0.7783
+Goodfellas,HENRY,"After Billy Batts and Spider, everything was going crazy. Not just our crew, but everybody.","After Billy Batts and Spider, everything was going crazy. Not just our crew, but everybody.",-0.1779
+Goodfellas,HENRY,"I swear on my mother, I should kill you. You're fucking crazy.","I swear on my mother, I should kill you. You're fucking crazy.",-0.8221
+Goodfellas,JIMMY,"Things gotta be calm right now, and Karen's so high-strung. She's with Mickey every day. Who knows what she's gonna do?","Things gotta be calm right now, and Karen's so high-strung. She's with Mickey every day. Who knows what she's gonna do?",0.3182
+Goodfellas,JIMMY,we're gonna feed the bastard to the lions.,we're gonna feed the bastard to the lions.,-0.5423
+Goodfellas,JIMMY,We only have to shove'em over the moat.,We only have to shove'em over the moat.,0.0
+Goodfellas,HENRY,"They must really feed each other to the lions down there, because the guy gave the money right up and we got to spend the rest of the weekend at the track.","They must really feed each other to the lions down there, because the guy gave the money right up and we got to spend the rest of the weekend at the track.",0.0
+Goodfellas,HENRY,"When we got home, we were all over the newspapers. At first, I didn't even know why we got picked up.","When we got home, we were all over the newspapers. At first, I didn't even know why we got picked up.",0.0
+Goodfellas,HENRY,"Then, I found out, that the guy we roughed up turned out to have a sister working as a typist for the","Then, I found out, that the guy we roughed up turned out to have a sister working as a typist for the",0.0
+Goodfellas,HENRY,Who could believe it? Of all the fucking people. She gave up everybody.  Jimmy.  Me. Even her brother.,Who could believe it? Of all the fucking people. She gave up everybody. Jimmy. Me. Even her brother.,0.0
+Goodfellas,HENRY,It took the jury six hours to bring us in guilty. The judge gave Jimmy and me ten years like he was giving away candy.,It took the jury six hours to bring us in guilty. The judge gave Jimmy and me ten years like he was giving away candy.,0.2732
+Goodfellas,HENRY,I'm just having my last few drinks.,I'm just having my last few drinks.,0.0
+Goodfellas,HENRY,Shit.,Shit.,-0.5574
+Goodfellas,TOMMY,Say hello to Jimmy.,Say hello to Jimmy.,0.0
+Goodfellas,HENRY,Dinner was always a big thing. We had a pasta course and then meat or fish.  Paulie did the prep work. He was doing a year for contempt and he had a system for doing garlic. He used a razor and he sliced it so thin it used to liquify in the pan with a little oil.,Dinner was always a big thing. We had a pasta course and then meat or fish. Paulie did the prep work. He was doing a year for contempt and he had a system for doing garlic. He used a razor and he sliced it so thin it used to liquify in the pan with a little oil.,-0.5859
+Goodfellas,HENRY,"Vinnie was in charge of the tomato sauce.  I felt he put in too many onions, but it was a good sauce anyway.","Vinnie was in charge of the tomato sauce. I felt he put in too many onions, but it was a good sauce anyway.",0.5927
+Goodfellas,HENRY,"Johnny Dio did the meat. He didn't have a broiler, so Johnny did everything in pans.  He smelled up the joint something awful and the hacks used to die.","Johnny Dio did the meat. He didn't have a broiler, so Johnny did everything in pans. He smelled up the joint something awful and the hacks used to die.",-0.7845
+Goodfellas,HENRY,"Everybody else in the joint was doing real time, all mixed together, living like pigs.","Everybody else in the joint was doing real time, all mixed together, living like pigs.",0.3612
+Goodfellas,HENRY,"We lived alone, we owned the joint. Even those hacks who we couldn't bribe would never rat on the guys who did.","We lived alone, we owned the joint. Even those hacks who we couldn't bribe would never rat on the guys who did.",-0.1048
+Goodfellas,HENRY,Jezuz Christ!,Jezuz Christ!,0.0
+Goodfellas,HENRY,We've got to help each other.,We've got to help each other.,0.4019
+Goodfellas,HENRY,It's only you and me. That's what happens when you go away. We're on our own. Forget everybody.  Forget Paulie.  As long as he's on parole he doesn't want anybody doing anything.,It's only you and me. That's what happens when you go away. We're on our own. Forget everybody. Forget Paulie. As long as he's on parole he doesn't want anybody doing anything.,-0.4628
+Goodfellas,HENRY,"Yes, you can. I've got it set up. We'll be fine. All I need is for you to keep bringing the stuff. I've got a guy in here from Pittsburgh who'll move it for me. Believe me, in a month we'll be fine. We won't need anybody.","Yes, you can. I've got it set up. We'll be fine. All I need is for you to keep bringing the stuff. I've got a guy in here from Pittsburgh who'll move it for me. Believe me, in a month we'll be fine. We won't need anybody.",0.6486
+Goodfellas,HENRY,Don't worry about Paulie. Is he helping you? Is he putting food on the table? We've got to help ourselves. We just have to be careful while we do it.,Don't worry about Paulie. Is he helping you? Is he putting food on the table? We've got to help ourselves. We just have to be careful while we do it.,0.8056
+Goodfellas,HENRY,"Don't worry about it. You listening to me? Now, come on. We gotta go see Paulie.","Don't worry about it. You listening to me? Now, come on. We gotta go see Paulie.",0.3412
+Goodfellas,HENRY,Wha?  Me?,Wha? Me?,0.0
+Goodfellas,HENRY,Why would I get into that?,Why would I get into that?,0.0
+Goodfellas,HENRY,I know that.  I know Jimmy. You think I'd take chances like Jimmy?,I know that. I know Jimmy. You think I'd take chances like Jimmy?,0.5106
+Goodfellas,HENRY,"Paulie, I know.  I know what they are. But I use them for certain things.  Please. Believe me, you don't nave to worry.","Paulie, I know. I know what they are. But I use them for certain things. Please. Believe me, you don't nave to worry.",0.8275
+Goodfellas,HENRY,Paulie. Why would I? I swear.,Paulie. Why would I? I swear.,-0.0516
+Goodfellas,HENRY,Nods.,Nods.,0.0
+Goodfellas,HENRY,Nods again.,Nods again.,0.0
+Goodfellas,HENRY,I understand.,I understand.,0.0
+Goodfellas,HENRY,"It took me about a week of sneaking around before I could unload the Pittsburgh stuff without Paulie finding out. But when I did, it was a real score.  I started using Robin's place to mix the stuff and even with Robin's snorting more than she mixed, I could see this was a good business. I made twelve thousand dollars in my second week and I had a down-payment on my house. All I had to do was every once in a while, tell Robin I loved her.","It took me about a week of sneaking around before I could unload the Pittsburgh stuff without Paulie finding out. But when I did, it was a real score. I started using Robin's place to mix the stuff and even with Robin's snorting more than she mixed, I could see this was a good business. I made twelve thousand dollars in my second week and I had a down-payment on my house. All I had to do was every once in a while, tell Robin I loved her.",0.8807
+Goodfellas,HENRY,"It was perfect. As long as I kept getting the stuff from Pittsburgh, I knew Paulie would never find out. But within a couple of weeks it got to be so big I needed help. I got Jimmy and Tommy to come in with me.","It was perfect. As long as I kept getting the stuff from Pittsburgh, I knew Paulie would never find out. But within a couple of weeks it got to be so big I needed help. I got Jimmy and Tommy to come in with me.",0.7096
+Goodfellas,HENRY,"Fifteen, sixteen, eighteen, twenty- one-five.","Fifteen, sixteen, eighteen, twenty- one-five.",0.0
+Goodfellas,JIMMY,Nice.,Nice.,0.4215
+Goodfellas,TOMMY,Who's buying?,Who's buying?,0.0
+Goodfellas,HENRY,Done.,Done.,0.0
+Goodfellas,HENRY,Will you stop.,Will you stop.,-0.296
+Goodfellas,HENRY,And these are the guys.,And these are the guys.,0.0
+Goodfellas,HENRY,Tommy and Sepe were going to grab the outside guard and make him get us in the front door.,Tommy and Sepe were going to grab the outside guard and make him get us in the front door.,0.0
+Goodfellas,HENRY,Frenchy and,Frenchy and,0.0
+Goodfellas,HENRY,Joe Buddha had to round up the workers.,Joe Buddha had to round up the workers.,0.0
+Goodfellas,HENRY,Fat Louis had to keep than tied up and away from alarms.,Fat Louis had to keep than tied up and away from alarms.,-0.2732
+Goodfellas,HENRY,Only Marty was driving us nuts. He was busting Jimmy's balls for an advance on the money we were going to steal.,Only Marty was driving us nuts. He was busting Jimmy's balls for an advance on the money we were going to steal.,-0.6705
+Goodfellas,HENRY,Even Stacks got in on it.  He was supposed to steal the panel truck and afterwards compact it by a friend of ours in Jersey.,Even Stacks got in on it. He was supposed to steal the panel truck and afterwards compact it by a friend of ours in Jersey.,0.0
+Goodfellas,HENRY,I had everybody working.  Even our old babysitter.,I had everybody working. Even our old babysitter.,0.0
+Goodfellas,HENRY,They're okay and it's worth it. Ain't it?,They're okay and it's worth it. Ain't it?,0.4215
+Goodfellas,HENRY,Don't start. I told you to clean up. Look at this place. It's a pigpen. Look around here. Why do you think I bought you the dishwasher? Look. Look at this.,Don't start. I told you to clean up. Look at this place. It's a pigpen. Look around here. Why do you think I bought you the dishwasher? Look. Look at this.,0.4019
+Goodfellas,HENRY,Nothing. I dropped the soap. That's all.,Nothing. I dropped the soap. That's all.,0.0
+Goodfellas,JIMMY,You're crazy. The bulls are across the street. They're watching everything we do.,You're crazy. The bulls are across the street. They're watching everything we do.,-0.34
+Goodfellas,JIMMY,Jesus Christ!  Are you all fucking nuts?,Jesus Christ! Are you all fucking nuts?,-0.4376
+Goodfellas,HENRY,He heard.,He heard.,0.0
+Goodfellas,JIMMY,For Christmas. Your share.  It's just a taste.,For Christmas. Your share. It's just a taste.,0.296
+Goodfellas,HENRY,Jimmy.,Jimmy.,0.0
+Goodfellas,JIMMY,"Yeah, yeah.  I'll be right there.","Yeah, yeah. I'll be right there.",0.5267
+Goodfellas,HENRY,Hey!  Look what I got. The most expensive tree they had.,Hey! Look what I got. The most expensive tree they had.,0.0
+Goodfellas,HENRY,Go buy yourself a coat.,Go buy yourself a coat.,0.0
+Goodfellas,HENRY,Lufthansa should have been our ultimate score. The heist of a lifetime. Six million in cash. More than enough to go around.,Lufthansa should have been our ultimate score. The heist of a lifetime. Six million in cash. More than enough to go around.,0.0
+Goodfellas,TOMMY,Hey!  Stacks! Come on! Open the door! Wake up!,Hey! Stacks! Come on! Open the door! Wake up!,0.0
+Goodfellas,TOMMY,Come on! Come on! We got some coffee.,Come on! Come on! We got some coffee.,0.0
+Goodfellas,HENRY,"Stacks was always crazy. Instead of getting rid of the truck like he was supposed to, he got stoned, went to his girlfriend's and by the time he woke up, the cops had found the truck. It was all over the television. They even said they came up with prints off the wheel. It was just a matter of tine before they got to Stacks.","Stacks was always crazy. Instead of getting rid of the truck like he was supposed to, he got stoned, went to his girlfriend's and by the time he woke up, the cops had found the truck. It was all over the television. They even said they came up with prints off the wheel. It was just a matter of tine before they got to Stacks.",0.0516
+Goodfellas,HENRY,I still gotta talk to you.,I still gotta talk to you.,0.0
+Goodfellas,HENRY,What's going on? What happened to Stacks? Is everything okay?,What's going on? What happened to Stacks? Is everything okay?,0.3485
+Goodfellas,HENRY,There are cops all over the place.,There are cops all over the place.,0.0
+Goodfellas,JIMMY,Tommy's gonna be made.,Tommy's gonna be made.,0.0
+Goodfellas,JIMMY,"You wanna talk? Okay, come on, let's get it over with.  I swear I've never known a ball buster like you in all my life.","You wanna talk? Okay, come on, let's get it over with. I swear I've never known a ball buster like you in all my life.",0.4939
+Goodfellas,HENRY,Wait a minute.  Calm down.,Wait a minute. Calm down.,0.3182
+Goodfellas,HENRY,What could happen? He got drunk. He passed out somewhere. I'll go looking for him in the morning.,What could happen? He got drunk. He passed out somewhere. I'll go looking for him in the morning.,-0.34
+Goodfellas,HENRY,"Awright, awright. Let me take you home and I'll go look for him myself. Right now.","Awright, awright. Let me take you home and I'll go look for him myself. Right now.",0.0
+Goodfellas,HENRY,What'll I tell Fran?,What'll I tell Fran?,0.0
+Goodfellas,JIMMY,Who gives a fuck? Tall her he ran away with a broad. What do you care about her.,Who gives a fuck? Tall her he ran away with a broad. What do you care about her.,-0.0772
+Goodfellas,JIMMY,Watch this.,Watch this.,0.0
+Goodfellas,HENRY,"Come on, don't fuck around, will ya?","Come on, don't fuck around, will ya?",0.431
+Goodfellas,JIMMY,I do it all the time. Bust their fucking balls.,I do it all the time. Bust their fucking balls.,0.0
+Goodfellas,HENRY,"Jimmy, come on. Fuck 'em. Don't give them the satisfaction.","Jimmy, come on. Fuck 'em. Don't give them the satisfaction.",-0.1531
+Goodfellas,JIMMY,"Come on, fuckoes. Let's go for a ride.","Come on, fuckoes. Let's go for a ride.",0.0
+Goodfellas,HENRY,"Jimmy was cutting every link between himself and the robbery, but it had nothing to do with me. I gave Jimmy the tip and he gave me some Christmas money. From then on I kept my mouth shut.  I knew Jimmy. He had the cash.  It was his. I know he kicked some money upstairs to Paulie, but that was it.  It made him sick to have to turn money over to the guys who stole it. He'd rather whack them. Anyway, what did I care? I wasn't. asking for anything and, besides. Jimmy was making nice money with me through my Pittsburgh connections. But still, for months after the robbery, they were finding bodies all over.","Jimmy was cutting every link between himself and the robbery, but it had nothing to do with me. I gave Jimmy the tip and he gave me some Christmas money. From then on I kept my mouth shut. I knew Jimmy. He had the cash. It was his. I know he kicked some money upstairs to Paulie, but that was it. It made him sick to have to turn money over to the guys who stole it. He'd rather whack them. Anyway, what did I care? I wasn't. asking for anything and, besides. Jimmy was making nice money with me through my Pittsburgh connections. But still, for months after the robbery, they were finding bodies all over.",0.5106
+Goodfellas,HENRY,"When they found Sepe in the meat truck, he was frozen so stiff it took them two days to thaw him out for the autopsy.","When they found Sepe in the meat truck, he was frozen so stiff it took them two days to thaw him out for the autopsy.",0.0
+Goodfellas,HENRY,"Still, I never saw Jimmy so happy. He was like a kid. We had money coming in through my Pittsburgh people and after a while even the Lufthansa thing began to calm down. But the thing that made Jimmy so happy that morning was that this was the day Tommy was being made.","Still, I never saw Jimmy so happy. He was like a kid. We had money coming in through my Pittsburgh people and after a while even the Lufthansa thing began to calm down. But the thing that made Jimmy so happy that morning was that this was the day Tommy was being made.",0.9167
+Goodfellas,HENRY,"Jimmy was so excited, you'd think he was being made. He must have made four calls to Tommy's house. They had a signal all set up so he'd know the minute the ceremony. was over.-","Jimmy was so excited, you'd think he was being made. He must have made four calls to Tommy's house. They had a signal all set up so he'd know the minute the ceremony. was over.-",0.4795
+Goodfellas,HENRY,Nah.,Nah.,-0.1027
+Goodfellas,HENRY,"Jimmy and I could never be made, because we bad Irish blood. It didn't even matter that my mother was Sicilian. To become a member of a crew, you've got to be one hundred percent Italian So that they can trace all your relatives back to the old country.","Jimmy and I could never be made, because we bad Irish blood. It didn't even matter that my mother was Sicilian. To become a member of a crew, you've got to be one hundred percent Italian So that they can trace all your relatives back to the old country.",-0.5535
+Goodfellas,HENRY,"It's the highest honor they can give you. It means you belong to a family and a crew. It means that nobody can fuck around with you. It also means you can fuck around with anybody, as long as they aren't also a member. It's like a license to steal.","It's the highest honor they can give you. It means you belong to a family and a crew. It means that nobody can fuck around with you. It also means you can fuck around with anybody, as long as they aren't also a member. It's like a license to steal.",-0.6705
+Goodfellas,HENRY,"As far as Jimmy was concerned, with Tommy being made, it was like we were all being made. We would now have one of our own guys as a member.","As far as Jimmy was concerned, with Tommy being made, it was like we were all being made. We would now have one of our own guys as a member.",0.3612
+Goodfellas,HENRY,"Except, they didn't make Tommy that day.","Except, they didn't make Tommy that day.",0.0
+Goodfellas,HENRY,They killed him. It was revenge for Billy Batts.,They killed him. It was revenge for Billy Batts.,-0.836
+Goodfellas,HENRY,And there was nothing we could do. Batts was a made man and Tommy wasn't. We had to sit still and take it. It was among the Italians. It was real greaseball shit. They even shot Tommy in the face so his mother couldn't give him an open coffin at the funeral.,And there was nothing we could do. Batts was a made man and Tommy wasn't. We had to sit still and take it. It was among the Italians. It was real greaseball shit. They even shot Tommy in the face so his mother couldn't give him an open coffin at the funeral.,-0.7269
+Goodfellas,HENRY,I was going to be busy all day. I had to drop off some thirty-eights at Jimmy's to match some silencers he had gotten. I had to pick up my brother at the hospital and drive him back to the house for dinner and then I had to pick up some new Pittsburgh stuff for Judy to fly down to some customers I had near Atlanta.,I was going to be busy all day. I had to drop off some thirty-eights at Jimmy's to match some silencers he had gotten. I had to pick up my brother at the hospital and drive him back to the house for dinner and then I had to pick up some new Pittsburgh stuff for Judy to fly down to some customers I had near Atlanta.,-0.2732
+Goodfellas,JIMMY,What fucking good are these things? They don't fit. What do I need this for? I'm not paying for this shit.,What fucking good are these things? They don't fit. What do I need this for? I'm not paying for this shit.,-0.5464
+Goodfellas,HENRY,"Right away I knew he didn't want them. I knew I was going to get stuck for the money. I only bought the damn guns because he wanted them. And now, he didn't want them. I didn't say a thing. Jimmy was so pissed he didn't even say goodbye.","Right away I knew he didn't want them. I knew I was going to get stuck for the money. I only bought the damn guns because he wanted them. And now, he didn't want them. I didn't say a thing. Jimmy was so pissed he didn't even say goodbye.",-0.8888
+Goodfellas,HENRY,"I knew my Pittsburgh guys always wanted guns, and since I was going to see them later in the afternoon to pick up a delivery, I was pretty sure I'd get my money back.","I knew my Pittsburgh guys always wanted guns, and since I was going to see them later in the afternoon to pick up a delivery, I was pretty sure I'd get my money back.",0.6705
+Goodfellas,HENRY,"When I finally got there to pick up Michael, his doctor wanted to put me in bed. I told him about the accident.  I said I was partying all night.","When I finally got there to pick up Michael, his doctor wanted to put me in bed. I told him about the accident. I said I was partying all night.",-0.128
+Goodfellas,HENRY,He took mercy on me. He gave me ten milligrams of Valium and sent me home. My plan was to drop off my brother at the house and pick up Karen.,He took mercy on me. He gave me ten milligrams of Valium and sent me home. My plan was to drop off my brother at the house and pick up Karen.,0.1027
+Goodfellas,HENRY,"I was cooking dinner that night. I had to start braising the beef, pork butt and veal shanks for the tomato sauce.  It's Michael's favorite. I was making ziti with the meat gravy, and I'm planning to roast some peppers over the flames, and I was putting on some string beans with the olive oil and garlic, and I had some beautiful cutlets, cut just right, that I was going to fry up before dinner just as an appetizer.  I was home for about an hour. My plan was toStart the dinner early, so Karen and I could go unload the guns that Jimmy didn't want, and get the package for Judy to take to Atlanta latex that night. I kept looking out the window and the helicopter was gone. I asked Michael to watch the sauce, and Karen and I started out.","I was cooking dinner that night. I had to start braising the beef, pork butt and veal shanks for the tomato sauce. It's Michael's favorite. I was making ziti with the meat gravy, and I'm planning to roast some peppers over the flames, and I was putting on some string beans with the olive oil and garlic, and I had some beautiful cutlets, cut just right, that I was going to fry up before dinner just as an appetizer. I was home for about an hour. My plan was toStart the dinner early, so Karen and I could go unload the guns that Jimmy didn't want, and get the package for Judy to take to Atlanta latex that night. I kept looking out the window and the helicopter was gone. I asked Michael to watch the sauce, and Karen and I started out.",0.6786
+Goodfellas,HENRY,We're going to your mother's.,We're going to your mother's.,0.0
+Goodfellas,HENRY,Now I'm sure we're being tailed. My plan was to go to her mother's and unload the guns. Who needed them in the trunk with all this heat?,Now I'm sure we're being tailed. My plan was to go to her mother's and unload the guns. Who needed them in the trunk with all this heat?,0.3182
+Goodfellas,HENRY,Let's go shopping.,Let's go shopping.,0.0
+Goodfellas,HENRY,I'm not nuts. It's been following me all fucking morning.  I mean it.,I'm not nuts. It's been following me all fucking morning. I mean it.,0.2411
+Goodfellas,HENRY,Okay!  Quick! Let's get back to your mother's.,Okay! Quick! Let's get back to your mother's.,0.3578
+Goodfellas,HENRY,"My plan was I had to get home and get the package ready for Judy to take on her trip. Also, I had to get to Robin's house to give the package a whack with some quinine. Plus, I knew Robin was gonna get on my ass. Then I had the cooking to finish at home, and I had to get Judy ready for the trip.","My plan was I had to get home and get the package ready for Judy to take on her trip. Also, I had to get to Robin's house to give the package a whack with some quinine. Plus, I knew Robin was gonna get on my ass. Then I had the cooking to finish at home, and I had to get Judy ready for the trip.",0.128
+Goodfellas,HENRY,(To dealer) A pain in the ass.,A pain in the ass.,-0.7783
+Goodfellas,HENRY,You ready?,You ready?,0.3612
+Goodfellas,HENRY,Tell Michael not to 1et the sauce stick.,Tell Michael not to 1et the sauce stick.,0.0
+Goodfellas,HENRY,Now this is important. Make sure you leave the house when you make the call. You understand? Do you hear me? It's important.  Call from an outside phone. I mean it.,Now this is important. Make sure you leave the house when you make the call. You understand? Do you hear me? It's important. Call from an outside phone. I mean it.,0.6199
+Goodfellas,HENRY,Just do what I say!  Judy Okay.,Just do what I say! Judy Okay.,0.2942
+Goodfellas,HENRY,"So, what does she do after she hangs up with me? After everything I had told her? After all her yeah, yeah, yeah, bullshit? She picks up the phone and calls from the house. Now, if anybody was listening, they'd know everything. They'd know that a package was leaving from my house and they'd even have the time and the flight number. Thanks to her.","So, what does she do after she hangs up with me? After everything I had told her? After all her yeah, yeah, yeah, bullshit? She picks up the phone and calls from the house. Now, if anybody was listening, they'd know everything. They'd know that a package was leaving from my house and they'd even have the time and the flight number. Thanks to her.",0.6747
+Goodfellas,HENRY,"As soon as I got home, I started cooking. I had a few hours until Judy's flight.  I told my brother to keep an eye on the stove. All day long, the poor guy's been watching helicopters and tomato sauce. I had to drive over to Robin's place, mix it once and get back to the gravy.","As soon as I got home, I started cooking. I had a few hours until Judy's flight. I told my brother to keep an eye on the stove. All day long, the poor guy's been watching helicopters and tomato sauce. I had to drive over to Robin's place, mix it once and get back to the gravy.",-0.4767
+Goodfellas,HENRY,What for? I got a pound of stuff in my jacket I've been carrying around all day. We gotta start taping it to your leg.,What for? I got a pound of stuff in my jacket I've been carrying around all day. We gotta start taping it to your leg.,0.0
+Goodfellas,HENRY,Do you realize what we're involved in here now?,Do you realize what we're involved in here now?,0.0
+Goodfellas,HENRY,"What could I do?  If she insisted, I had to drive her home for her goddamn hat.  I threw the package in the kitchen and went to take her hone.","What could I do? If she insisted, I had to drive her home for her goddamn hat. I threw the package in the kitchen and went to take her hone.",-0.4767
+Goodfellas,HENRY,"For a second I thought I was dead, but when I heard all the noise, I knew they were cops,  only cops talk that way.  If they had been wiseguys, I wouldn't have heard a thing. I would have been dead.","For a second I thought I was dead, but when I heard all the noise, I knew they were cops, only cops talk that way. If they had been wiseguys, I wouldn't have heard a thing. I would have been dead.",-0.8462
+Goodfellas,HENRY,"All day I thought the guys in the helicopter were just local cops busting my balls over Lufthansa, but they turned out to be Narks. They had been on me a month. Phone taps. Surveillance.","All day I thought the guys in the helicopter were just local cops busting my balls over Lufthansa, but they turned out to be Narks. They had been on me a month. Phone taps. Surveillance.",0.0
+Goodfellas,HENRY,Fuck Jimmy and the money. Didn't I tell you I gotta get out of here first.  I gotta straighten every- thing out with Paulie or I'm dead.,Fuck Jimmy and the money. Didn't I tell you I gotta get out of here first. I gotta straighten every- thing out with Paulie or I'm dead.,-0.8316
+Goodfellas,HENRY,Karen finally got her mother to put her house up for my bail. I was out.,Karen finally got her mother to put her house up for my bail. I was out.,0.0
+Goodfellas,HENRY,"I remember I had this feeling I was going to get killed right outside the jail.  I knew Paulie was still pissed at me and he's such a hothead I was afraid he might have me whacked before he calmed down. And I was also worried about Jimmy. Jimmy knew if Paulie found out he was in the drug deals with me, Paulie would have Jimmy killed even before me. This is the bad time.  I didn't feel safe until I got home.","I remember I had this feeling I was going to get killed right outside the jail. I knew Paulie was still pissed at me and he's such a hothead I was afraid he might have me whacked before he calmed down. And I was also worried about Jimmy. Jimmy knew if Paulie found out he was in the drug deals with me, Paulie would have Jimmy killed even before me. This is the bad time. I didn't feel safe until I got home.",-0.9589
+Goodfellas,HENRY,So now my plan was to stay alive long enough to sell off the dope that the cops never found and disappear for a while until I got things straightened out.,So now my plan was to stay alive long enough to sell off the dope that the cops never found and disappear for a while until I got things straightened out.,0.505
+Goodfellas,HENRY,You know. The stuff I left.,You know. The stuff I left.,0.0
+Goodfellas,HENRY,"Are you fucking nuts? That was forty, fifty thousand.  I need it. I was depending on that money.","Are you fucking nuts? That was forty, fifty thousand. I need it. I was depending on that money.",-0.3804
+Goodfellas,HENRY,"Shit You know they would have never found it. Why did you do it? Why did you do it? My God, why did you have to do it?","Shit You know they would have never found it. Why did you do it? Why did you do it? My God, why did you have to do it?",-0.466
+Goodfellas,HENRY,I've been all fucked up since I got out.,I've been all fucked up since I got out.,-0.6597
+Goodfellas,HENRY,"It was easy money. I did it in the can.  Shit! I learned the junk business in the can, Paulie.","It was easy money. I did it in the can. Shit! I learned the junk business in the can, Paulie.",-0.2481
+Goodfellas,HENRY,"But, Paulie, I'm sorry. Believe me.  I was fucking crazy.  But I'm okay now. I can be trusted.  I'm clean now. On my children. Believe me! Two weeks cold turkey waiting for bail got my head together...","But, Paulie, I'm sorry. Believe me. I was fucking crazy. But I'm okay now. I can be trusted. I'm clean now. On my children. Believe me! Two weeks cold turkey waiting for bail got my head together...",0.7471
+Goodfellas,HENRY,"Paulie, I couldn't come to you. I didn't want to put you in this shit.","Paulie, I couldn't come to you. I didn't want to put you in this shit.",-0.6675
+Goodfellas,HENRY,Paulie.  You're all I got.  I need help.,Paulie. You're all I got. I need help.,0.4019
+Goodfellas,HENRY,Thirty-two hundred bucks. That's what he gave me. Thirty-two hundred bucks for a lifetime. It wouldn't have paid for the coffin.,Thirty-two hundred bucks. That's what he gave me. Thirty-two hundred bucks for a lifetime. It wouldn't have paid for the coffin.,0.0
+Goodfellas,JIMMY,Did he say what they're asking him about?,Did he say what they're asking him about?,0.0
+Goodfellas,JIMMY,I gotta talk to him as soon as I can.,I gotta talk to him as soon as I can.,0.0
+Goodfellas,JIMMY,I know. I know. But it'll be okay. Don't worry. I got some money for you. It's down the block.,I know. I know. But it'll be okay. Don't worry. I got some money for you. It's down the block.,0.1553
+Goodfellas,HENRY,What happened? You okay?,What happened? You okay?,0.3094
+Goodfellas,HENRY,"If you're part of a crew, nobody ever tells you that they're going to kill you.  It doesn't happen that way.  There aren't any arguments or curses like in the movies. Your murderers come with smiles. They come as your friends, the people who have cared for you all your life, and they always come at a time when you are at your weakest and most in need of their help. So I met Jimmy in a crowded place we both knew.  I got there fifteen minutes early and I saw that Jimmy was already there. He took the booth near the window so he could see everyone who drove up to the restaurant.  He wanted to see if I had been tailed.","If you're part of a crew, nobody ever tells you that they're going to kill you. It doesn't happen that way. There aren't any arguments or curses like in the movies. Your murderers come with smiles. They come as your friends, the people who have cared for you all your life, and they always come at a time when you are at your weakest and most in need of their help. So I met Jimmy in a crowded place we both knew. I got there fifteen minutes early and I saw that Jimmy was already there. He took the booth near the window so he could see everyone who drove up to the restaurant. He wanted to see if I had been tailed.",0.2865
+Goodfellas,JIMMY,"Come on, eat something.","Come on, eat something.",0.0
+Goodfellas,HENRY,"I can't eat,  just get me some coffee.","I can't eat, just get me some coffee.",0.0
+Goodfellas,HENRY,"He was jumpy. He hadn't touched a thing. In the old days, Jimmy would have ordered doubles and eaten it all.  On the surface, of course, everything was supposed to be fine. We were supposed to be discussing my case, just like we always would, but I had a feeling Jimmy was trying to sense whether I was going to rat him out to save my neck.","He was jumpy. He hadn't touched a thing. In the old days, Jimmy would have ordered doubles and eaten it all. On the surface, of course, everything was supposed to be fine. We were supposed to be discussing my case, just like we always would, but I had a feeling Jimmy was trying to sense whether I was going to rat him out to save my neck.",0.7717
+Goodfellas,HENRY,How?,How?,0.0
+Goodfellas,JIMMY,It's that rat bastard from Pittsburgh. He ratted you all out. He's been a rat since he got busted in Pittsburgh.,It's that rat bastard from Pittsburgh. He ratted you all out. He's been a rat since he got busted in Pittsburgh.,-0.5423
+Goodfellas,HENRY,Yeah.,Yeah.,0.296
+Goodfellas,JIMMY,"He's hiding, thE son of a bitch, in Florida.","He's hiding, thE son of a bitch, in Florida.",-0.7184
+Goodfellas,HENRY,Yeah.,Yeah.,0.296
+Goodfellas,JIMMY,"I want you and Anthony to go down there and take care of that bastard. Without him, they've got no case.","I want you and Anthony to go down there and take care of that bastard. Without him, they've got no case.",-0.296
+Goodfellas,HENRY,"Jimmy had never asked me to whack somebody before, but now he's asking me to go down to Florida and do a hit with Anthony.","Jimmy had never asked me to whack somebody before, but now he's asking me to go down to Florida and do a hit with Anthony.",0.0
+Goodfellas,HENRY,That's when I knew I would never have come back from Florida alive.,That's when I knew I would never have come back from Florida alive.,0.3818
+Goodfellas,HENRY,I don't want to go anywhere it's cold.,I don't want to go anywhere it's cold.,-0.0572
+Goodfellas,HENRY,I don't care who controls it. Nowhere cold.,I don't care who controls it. Nowhere cold.,-0.3875
+Goodfellas,HENRY,Yeah. What about the kids' school?,Yeah. What about the kids' school?,0.296
+Goodfellas,HENRY,"It was easy for all of us to disappear. My house was in my mother- in-law's name.  My cars were registered to my wife. My Social Security cards and driver's licenses were phonies.  I've never , voted. I never paid taxes. My birth certificate and my arrest sheet, that's all you'd ever have to know I was alive.","It was easy for all of us to disappear. My house was in my mother- in-law's name. My cars were registered to my wife. My Social Security cards and driver's licenses were phonies. I've never , voted. I never paid taxes. My birth certificate and my arrest sheet, that's all you'd ever have to know I was alive.",0.5574
+Goodfellas,HENRY,The hardest thing for me was leaving the life. I still love the life. We were treated like movie stars with muscle.  We had it all just for the asking.,The hardest thing for me was leaving the life. I still love the life. We were treated like movie stars with muscle. We had it all just for the asking.,0.7717
+Goodfellas,HENRY,"Our wives, mothars, kids, everybody rode along. I had paper bags filled with jewelry stashed in the kitchen and a sugar bowl full of coke next to the bed.","Our wives, mothars, kids, everybody rode along. I had paper bags filled with jewelry stashed in the kitchen and a sugar bowl full of coke next to the bed.",0.0
+Goodfellas,HENRY,"Anything I wanted was a phone call away. Free cars and the keys to a dozen hideouts flats all over the city. I'd bet twenty, thirty grand over a weekend ...","Anything I wanted was a phone call away. Free cars and the keys to a dozen hideouts flats all over the city. I'd bet twenty, thirty grand over a weekend ...",0.743
+Goodfellas,HENRY,... and than I'd either blow the winnings in a week or go to the sharks to pay back the bookies.,... and than I'd either blow the winnings in a week or go to the sharks to pay back the bookies.,0.4767
+Goodfellas,HENRY,It didn't matter. When I was broke I just went out and robbed some more. We ran everything.  We paid off lawyers. We paid off cops. Everybody had their hands out. And now it's all over.,It didn't matter. When I was broke I just went out and robbed some more. We ran everything. We paid off lawyers. We paid off cops. Everybody had their hands out. And now it's all over.,-0.4356
+Goodfellas,HENRY,And that's the hardest part. Today everything is different. There's no action.,And that's the hardest part. Today everything is different. There's no action.,-0.296
+Goodfellas,HENRY,I have to wait around like anyone else. Yon can't even get decent food. Right after I got hare I ordered some spaghetti with marinara sauce and I got egg noodles and ketchup.,I have to wait around like anyone else. Yon can't even get decent food. Right after I got hare I ordered some spaghetti with marinara sauce and I got egg noodles and ketchup.,0.3612
