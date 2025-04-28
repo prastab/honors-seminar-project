@@ -48,23 +48,21 @@ export default function Home() {
         <MotionP>
           Martin Scorsese and Quentin Tarantino are masters of modern cinema, known for their
           stylish crime narratives, morally complex characters, and unforgettable dialogue.
-          Their films, such as Scorsese's <strong>Goodfellas</strong><Cite id={REF_NUM.GF} /> and <strong>Taxi Driver</strong><Cite id={REF_NUM.TD} />, or Tarantino's <strong>Pulp Fiction</strong><Cite id={REF_NUM.PF} /> and <strong>Kill Bill Vol. 1</strong><Cite id={REF_NUM.KB} />, often leave audiences grappling with questions of right and wrong,
+          Their films, such as Scorsese&apos;s <strong>Goodfellas</strong><Cite id={REF_NUM.GF} /> and <strong>Taxi Driver</strong><Cite id={REF_NUM.TD} />, or Tarantino&apos;s <strong>Pulp Fiction</strong><Cite id={REF_NUM.PF} /> and <strong>Kill Bill Vol. 1</strong><Cite id={REF_NUM.KB} />, often leave audiences grappling with questions of right and wrong,
           while simultaneously experiencing a whirlwind of emotions – from humor and joy to
           intense anger and fear.
         </MotionP>
         <MotionP>
-          This project dives into the emotional landscape of their characters' speech.
-          Using computational tools like <strong>sentiment and emotion analysis</strong>, we explore how
+          Using computational tools like <strong>sentiment and emotion analysis</strong>, this project explores how
           different characters in the iconic films <strong>Goodfellas</strong><Cite id={REF_NUM.GF} /> and <strong>Pulp Fiction</strong><Cite id={REF_NUM.PF} /> express
           emotions through their words. Can we find patterns? Do characters perceived as
           "villains" talk differently, emotionally speaking, than the "protagonists"?
         </MotionP>
         <MotionP>
-          We started with a basic sentiment analysis tool (VADER<Cite id={REF_NUM.VADER} />) and then moved to a more
+          I started with a basic sentiment analysis tool (VADER<Cite id={REF_NUM.VADER} />) and then moved to a more
           advanced AI model (DistilRoBERTa<Cite id={REF_NUM.ROBERTA} />) to get a detailed breakdown of specific emotions
           like anger, joy, fear, and sadness. This white paper presents my findings,
-          offering a data-driven look at how emotion and morality intertwine in the dialogue
-          of these cinematic giants.
+          offering a data-driven look at how expression of emotions differ in the dialogues.
         </MotionP>
       </SectionContainer>
 
@@ -88,15 +86,14 @@ export default function Home() {
         </MotionP>
         <MotionH3>The Problem: Subjectivity vs. Data</MotionH3>
         <MotionP>
-          Film analysis often relies on subjective interpretation. While valuable, it can be hard
+          Film analysis often relies on personal opinion. While valuable, it can be hard
           to make concrete comparisons. How much <strong>more</strong> angry does Tommy sound compared to Henry,
           according to their dialogue? Does <strong>Pulp Fiction</strong> truly have more 'surprising' moments
-          reflected in its speech compared to <strong>Goodfellas</strong>? Traditional analysis struggles to quantify these emotional undercurrents at scale.
+          reflected in its speech compared to <strong>Goodfellas</strong>? Traditional methods can&apos;t easily measure these differences.
         </MotionP>
         <MotionP>
-           This project addresses this gap by applying natural language processing (NLP)<Cite id={REF_NUM.LIBS} /> techniques to treat the script's dialogue as data, allowing for measurable comparisons.
-           Can we use data to provide objective, replicable insights into the emotional
-           expression of characters and how it might relate to their roles and the film's overall tone?
+        This project uses natural language processing (NLP)<Cite id={REF_NUM.LIBS} /> techniquesto turn scripts into data, allowing for measurable comparisons.
+           And use that data to objectively compare how characters express emotions and see how this relates to their roles or the film&apos;s mood.
         </MotionP>
       </SectionContainer>
 
@@ -196,8 +193,10 @@ export default function Home() {
             <p className="text-sm text-muted-foreground mt-2">Figure 3: Average emotion intensity per character.</p> {/* Subtitle */} 
          </div>
          <MotionP>
-            <strong>Insights:</strong> {/* ... Insights text using film titles and cite numbers ... */}
-            Jimmy (<strong>Goodfellas</strong><Cite id={REF_NUM.GF} />) stands out dramatically with the highest average <strong>'anger'</strong> score (0.35), nearly double that of most other characters analyzed. His fellow Goodfella, Tommy, also scores high on average <strong>'anger'</strong> (0.27) and <strong>'disgust'</strong> (0.24). In  <strong>Pulp Fiction</strong><Cite id={REF_NUM.PF} />,  Jules shows the highest average <strong>'anger'</strong> (0.24) among the main characters, potentially reflecting his authoritative and sometimes confrontational role. Mia, conversely, exhibits the lowest average <strong>'anger'</strong> (0.08), aligning with her generally cooler demeanor, though she shows higher average <strong>'neutral'</strong> scores (0.42).
+            <strong>Insights:</strong> Clear differences emerge. Jimmy (<em>Goodfellas</em><Cite id={REF_NUM.GF} />) stands out dramatically with the highest average <strong>'anger'</strong> score (0.35), nearly double that of most other characters analyzed. His fellow Goodfella, Tommy, also scores high on average <strong>'anger'</strong> (0.27) and <strong>'disgust'</strong> (0.24). In <em>Pulp Fiction</em><Cite id={REF_NUM.PF} />, Jules shows the highest average <strong>'anger'</strong> (0.24) among the main characters, potentially reflecting his authoritative and sometimes confrontational role.
+         </MotionP>
+         <MotionP>
+            <strong>Notably, Mia (<em>Pulp Fiction</em>) exhibits the lowest average 'anger' score (0.08) by a significant margin – roughly half that of the next lowest character, Butch (0.16). This distinct lack of expressed anger in her dialogue compared to the male characters is intriguing and might suggest reflections on gender dynamics or specific character conception within the narrative.</strong>
          </MotionP>
        </SectionContainer>
 
@@ -217,35 +216,35 @@ export default function Home() {
                 <p className="text-sm text-muted-foreground mt-2">Figure 4: Dominant emotion frequency per character (Pulp Fiction & Goodfellas).</p> {/* Subtitle */} 
             </div>
             <MotionP>
-            <strong>Insights:</strong> 'Neutral' is the most frequent dominant emotion for many characters, including Henry (46%), Butch (40%), Mia (51%), and Vincent (45%), indicating much dialogue serves exposition or basic interaction. However, the exceptions are telling: For Jimmy, <strong>'anger'</strong> was dominant in a remarkable 43% of his lines, far exceeding any other emotion for him. For Tommy, <strong>'anger'</strong> (30%) and 'neutral' (25%) were the most frequent dominant emotions. Jules also showed <strong>'anger'</strong> as dominant frequently (26%), second only to 'neutral' (35%). This highlights how even if the <strong>average</strong> intensity isn't always extreme, certain characters express specific dominant emotions much more often.
-         </MotionP>
+            <strong>Insights:</strong> While 'Neutral' dialogue often dominated for characters like Henry, Mia, and Vincent (40-51%), likely reflecting functional speech, stark contrasts emerge. Jimmy's dialogue was overwhelmingly dominated by <strong>'anger'</strong> (43% of lines), far more than any other state for him. Tommy (30%) and Jules (26%) also showed <strong>'anger'</strong> as a frequent primary emotion, ranking first or a close second for them. This focus on <strong>frequency</strong> reveals distinct character modes. It adds a different dimension compared to looking only at average emotion intensity. And it also shows how characters of <strong>GoodFellas&apos;</strong><Cite id={REF_NUM.GF}/> have more <strong>angry</strong> dialogues while Tarantino's <strong>Pulp Fiction</strong><Cite id={REF_NUM.PF}/> has more dialogues with <strong>suprise</strong>.</MotionP>
                  </SectionContainer>
-        <SectionContainer id="results-correlation" className="pt-6 md:pt-8">
+                 <SectionContainer id="results-correlation" className="pt-6 md:pt-8">
             <MotionH3>How Emotions Relate (Correlation)</MotionH3>
             <MotionP>
-           How do the different predicted emotions relate to each other and to the basic VADER sentiment score? This heatmap visualizes the correlation coefficients. Red indicates a positive correlation (scores tend to rise and fall together), blue indicates a negative correlation. Values near zero suggest little linear relationship.
-         </MotionP>
-                      <div className="flex flex-col items-center gap-2 py-4 px-4"> {/* Wrap image and subtitle */} 
+                This heatmap shows how different emotions relate to each other and the basic VADER sentiment score (Red = Positive link, Blue = Negative link).
+            </MotionP>
+             <div className="flex flex-col items-center gap-2 py-4 px-4"> {/* Wrap image and subtitle */}
                 <MotionImg src="/plots/plot5_emotion_correlation_heatmap.png" alt="Heatmap showing emotion correlation" className="max-w-xl" />
-                <p className="text-sm text-muted-foreground mt-2">Figure 5: Correlation heatmap of emotion scores and VADER sentiment.</p> {/* Subtitle */} 
+                <p className="text-sm text-muted-foreground mt-2">Figure 3: Correlation heatmap.</p> {/* Adjusted Figure Number */}
              </div>
              <MotionP>
-            <strong>Insights:</strong> The results align with expectations in many ways. VADER's positive sentiment score correlates negatively with model-predicted <strong>'anger'</strong> (-0.34) and <strong>'disgust'</strong> (-0.22), while correlating positively with <strong>'joy'</strong> (0.29) and <strong>'neutral'</strong> (0.28). This confirms that the more nuanced model generally agrees with VADER's polarity but adds detail. We also observe a strong negative correlation between predicted <strong>'anger'</strong> and <strong>'neutral'</strong> (-0.52), indicating the model clearly distinguishes these states. Interestingly, <strong>'surprise'</strong> shows very little correlation with the overall VADER sentiment score (0.04).
-         </MotionP>
-                 </SectionContainer>
-        <SectionContainer id="results-anger-focus" className="pt-6 md:pt-8">
+                <strong>Insights:</strong> As expected, 'anger' and 'disgust' linked negatively with VADER's positive score, while 'joy' and 'neutral' linked positively. This shows the emotion model aligns with basic sentiment but adds detail. Notably, predicted 'anger' strongly contrasted with 'neutral' (-0.52), confirming the model separates these states well.
+             </MotionP>
+       </SectionContainer>
+
+       <SectionContainer id="results-anger-focus" className="pt-6 md:pt-8">
             <MotionH3>Focus on Anger Distribution</MotionH3>
             <MotionP>
-           Given the genre and the previous findings, let's examine the distribution of 'anger' scores more closely. This box plot displays the range and central tendency of predicted 'anger' for each character, ordered by their average score. The box shows the middle 50% of scores, the line is the median.
-         </MotionP>
-             <div className="flex flex-col items-center gap-2 py-4 px-4"> {/* Wrap image and subtitle */} 
+                Given the high anger scores for some characters, this box plot explores how 'anger' scores were spread out for each character.
+            </MotionP>
+             <div className="flex flex-col items-center gap-2 py-4 px-4"> {/* Wrap image and subtitle */}
                 <MotionImg src="/plots/plot6_distribution_anger.png" alt="Box plot showing anger distribution" className="max-w-2xl" />
-                <p className="text-sm text-muted-foreground mt-2">Figure 6: Distribution of 'Anger' scores per character.</p> {/* Subtitle */} 
+                <p className="text-sm text-muted-foreground mt-2">Figure 4: Distribution of 'Anger' scores.</p> {/* Adjusted Figure Number */}
              </div>
              <MotionP>
-            <strong>Insights:</strong> While Jimmy clearly has the highest average 'anger', the box plot reveals more. His scores seem consistently high (a relatively compact box shifted upwards). Characters like Jules and Henry, while having lower averages, show a wider range in their middle 50% of scores (larger boxes), suggesting more variability in their expression of anger – sometimes low, sometimes high. Tommy's distribution also appears shifted high. Mia's 'anger' scores are clustered very low, confirming her minimal expression of this emotion via dialogue.
-         </MotionP>
-                 </SectionContainer>
+                <strong>Insights:</strong> While Jimmy had the highest <strong>average</strong> anger, his scores were also consistently high (compact box). Jules and Henry showed more <strong>variability</strong> (wider boxes), meaning their anger expression fluctuated more. Mia's scores remained clustered very low, reinforcing her minimal anger expression.
+            </MotionP>
+       </SectionContainer>
         <SectionContainer id="results-qualitative" className="pt-6 md:pt-8">
             <MotionH3>Qualitative Examples</MotionH3>
             <MotionP>
